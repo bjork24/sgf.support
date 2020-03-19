@@ -6,40 +6,12 @@
 </script>
 
 <style>
-  :global(body) {
-    margin: 0;
-    padding: 0;
-    color: #2c3e50;
-  }
-  :global(a, a:visited) {
-    color: #ff3e00;
-  }
-  main {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-  h1 {
-    font-size: 1.2rem;
-  }
-  ul {
-    display: flex;
-    flex-direction: row;
-    margin: 0;
-    padding: 0;
-    list-style: none;
-  }
-  ul > * + * {
-    margin-left: 1rem;
-  }
-  .center {
-    text-align: center;
-  }
+
 </style>
 
 <main>
+
+  <img src="./android-chrome-96x96.png" alt="" />
 
   <h1>sgf.support</h1>
 
