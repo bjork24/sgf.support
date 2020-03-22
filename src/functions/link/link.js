@@ -1,10 +1,10 @@
-const grabity = require('grabity')
+const { grabIt } = require('grabity')
 const linky = require('linky')
 
 exports.handler = async (event, context) => {
   try {
     const { url } = event.queryStringParameters
-    const metadata = await grabity.grabIt(url)
+    const metadata = await grabIt(url)
     metadata.description = linky(metadata.description, { target: '_blank' })
     return {
       statusCode: 200,
