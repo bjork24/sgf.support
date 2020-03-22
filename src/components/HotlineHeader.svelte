@@ -21,6 +21,11 @@
     color: var(--color1);
     padding: 0 0.5rem;
   }
+  @media (max-width: 400px) {
+    header {
+      font-size: 1rem;
+    }
+  }
 </style>
 
 <header>

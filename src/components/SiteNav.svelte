@@ -1,5 +1,7 @@
 <script>
   import { link } from "svelte-routing";
+  import Icon from "svelte-awesome";
+  import { bars } from "svelte-awesome/icons";
 </script>
 
 <style>
@@ -46,6 +48,16 @@
     margin-top: -0.25rem;
     font-style: italic;
   }
+  button {
+    position: absolute;
+    right: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--color1);
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+  }
   ul {
     margin: 0;
     padding: 0;
@@ -63,6 +75,20 @@
   li:not(:first-child) {
     margin-left: 0.5rem;
   }
+  @media (max-width: 400px) {
+    :root {
+      --logo-width: 60px;
+    }
+    nav {
+      padding: 0.5rem;
+    }
+    a[title] h1 {
+      font-size: 1.25rem;
+    }
+    a[title] small {
+      display: none;
+    }
+  }
 </style>
 
 <nav>
@@ -74,13 +100,16 @@
       <h1>SGF.SUPPORT</h1>
       <small>COVID-19 info for Springfield, MO</small>
     </a>
-    <ul>
+    <button>
+      <Icon data={bars} scale="1.5" />
+    </button>
+    <!-- <ul>
       <li>
         <a href="/" use:link>Resources</a>
       </li>
       <li>
         <a href="/public" use:link>Restaurants</a>
       </li>
-    </ul>
+    </ul> -->
   </main>
 </nav>
