@@ -2,11 +2,14 @@
   import { onMount } from 'svelte'
   export let link = false
   export let date = false
+  export let cacheIndex = 0
 
   let article = false
 
   onMount(async () => {
-    const res = await fetch('/.netlify/functions/link?url=' + link)
+    const res = await fetch(
+      `/.netlify/functions/link/${cacheIndex}?url=${link}`
+    )
     article = await res.json()
     const matches = link.match(/^https?\:\/\/([^\/?#]+)(?:[\/?#]|$)/i)
     article.domain = matches && matches[1].toLowerCase().replace('www.', '')

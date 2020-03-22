@@ -22,8 +22,8 @@
 
 <div>
   {#each days as { header, links }, i (i)}
-    {#each links as link, i (header + 'link' + i)}
-      <LinkCard {link} date={header} />
+    {#each links as link, idx (header + 'link' + idx)}
+      <LinkCard {link} date={header} cacheIndex={[i, idx].join('')} />
     {/each}
   {/each}
 </div>
