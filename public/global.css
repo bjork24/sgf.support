@@ -1,0 +1,36 @@
+:root {
+  --color1: #edede7;
+  --color2: #7c7973;
+  --color3: #d38e4f;
+  --color4: #d03220;
+  --color5: #2b2d2a;
+  --color-primary: #7c7872;
+  --color-info: #2d312c;
+  --color-success: #5a9f5a;
+  --color-warning: #d88e22;
+  --color-danger: #f44336;
+  --max-page-width: 1200px;
+}
+
+html {
+  font-size: 16px;
+}
+
+@media (max-width: 400px) {
+  html {
+    font-size: 15px;
+  }
+}
+
+body {
+  height: 100%;
+  background-color: var(--color1);
+}
+
+main {
+  width: 100%;
+  max-width: var(--max-page-width);
+  padding: 0 1rem;
+  margin: 0 auto;
+  display: block;
+}
