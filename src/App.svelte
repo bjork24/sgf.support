@@ -1,8 +1,7 @@
 <script>
   import { Router, Route, link } from 'svelte-routing'
   import LinksList from './components/LinksList.svelte'
-  import Public from './pages/Public.svelte'
-  import NotFound from './pages/NotFound.svelte'
+  import RestaurantList from './components/RestaurantList.svelte'
   import HotlineHeader from './components/HotlineHeader.svelte'
   import SiteNav from './components/SiteNav.svelte'
 </script>
@@ -39,11 +38,11 @@
   <SiteNav {route} />
   <main>
     <section>
-      <Route path="/public" component={Public} />
+      <Route path="/restaurants" component={RestaurantList} />
       <Route path="/" component={LinksList} />
     </section>
     <aside>
-      <a href="/public" use:link>Public</a>
+      <a href="/restaurants" use:link>Restaurants</a>
     </aside>
   </main>
 </Router>
