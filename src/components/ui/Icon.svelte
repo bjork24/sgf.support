@@ -6,20 +6,31 @@
   import FaKeyboard from 'svelte-icons/fa/FaKeyboard.svelte'
   import FaUtensils from 'svelte-icons/fa/FaUtensils.svelte'
   import FaBars from 'svelte-icons/fa/FaBars.svelte'
+  import FaCaretRight from 'svelte-icons/fa/FaCaretRight.svelte'
+  import FaCaretDown from 'svelte-icons/fa/FaCaretDown.svelte'
+  import FaExternalLinkAlt from 'svelte-icons/fa/FaExternalLinkAlt.svelte'
+  import FaGift from 'svelte-icons/fa/FaGift.svelte'
+  import FaCheckSquare from 'svelte-icons/fa/FaCheckSquare.svelte'
+  import FaRegSquare from 'svelte-icons/fa/FaRegSquare.svelte'
   export let icon = false
   export let color = 'var(--color-primary)'
   export let scale = '1'
+  export let title = false
 </script>
 
 <style>
   span {
-    width: 24px;
-    height: 24px;
+    width: 16px;
+    height: 16px;
     display: inline-block;
   }
 </style>
 
-<span style="color: {color}; transform: scale({scale});">
+<span
+  class="icon"
+  style="color: {color}; transform: scale({scale});"
+  {title}
+  on:click>
   {#if icon === 'bell'}
     <FaConciergeBell />
   {:else if icon === 'car'}
@@ -34,5 +45,18 @@
     <FaUtensils />
   {:else if icon === 'menu'}
     <FaBars />
+  {:else if icon === 'caret-down'}
+    <FaCaretDown />
+  {:else if icon === 'caret-right'}
+    <FaCaretRight />
+  {:else if icon === 'external-link'}
+    <FaExternalLinkAlt />
+  {:else if icon === 'gift'}
+    <FaGift />
+  {:else if icon === 'checkbox-on'}
+    <FaCheckSquare />
+  {:else if icon === 'checkbox-off'}
+    <FaRegSquare />
   {/if}
+
 </span>

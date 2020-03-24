@@ -84,7 +84,7 @@
       <small>COVID-19 info for Springfield, MO</small>
     </a>
     <button>
-      <Icon icon="menu" color="var(--color1)" />
+      <Icon icon="menu" color="var(--color1)" scale="1.5" />
     </button>
   </main>
 </nav>

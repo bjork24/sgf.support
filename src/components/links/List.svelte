@@ -1,6 +1,6 @@
 <script>
-  import LinkCard from './LinkCard.svelte'
-  import { days } from '../data/links.yml'
+  import LinkCard from './Card.svelte'
+  import { days } from './data.yml'
 </script>
 
 <style>
