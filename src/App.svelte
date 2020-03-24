@@ -2,10 +2,12 @@
   import { Router, Route, link } from 'svelte-routing'
   import LinkList from './components/links/List.svelte'
   import RestaurantList from './components/restaurants/List.svelte'
+  import ResourcesList from './components/resources/List.svelte'
   import Sidebar from './components/Sidebar.svelte'
   import HotlineHeader from './components/HotlineHeader.svelte'
   import SiteNav from './components/SiteNav.svelte'
   import Callout from './components/Callout.svelte'
+  import Contact from './components/Contact.svelte'
 </script>
 
 <style>
@@ -44,6 +46,8 @@
       <Callout />
       <Route path="/" component={LinkList} />
       <Route path="/restaurants" component={RestaurantList} />
+      <Route path="/resources" component={ResourcesList} />
+      <Route path="/contact" component={Contact} />
     </section>
     <aside>
       <Sidebar {route} />

@@ -34,7 +34,7 @@
     padding-right: calc(40% + 1rem);
   }
   p :global(a) {
-    color: var(--color-info);
+    color: var(--color-success);
   }
   figure {
     width: 40%;

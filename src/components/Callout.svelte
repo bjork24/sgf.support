@@ -1,6 +1,9 @@
 <script>
   import Icon from './ui/Icon.svelte'
 
+  const infoLink =
+    'http://ozarksindependent.com/2020/03/24/read-the-stay-at-home-orders-of-springfield-plus-frequently-asked-questions/'
+
   const startDate = 'March 26'
   const endDate = 'April 25'
 
@@ -16,7 +19,9 @@
 </script>
 
 <style>
-  section {
+  a {
+    display: block;
+    text-decoration: none;
     border-radius: 6px;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14),
       0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
@@ -64,7 +69,7 @@
   }
 </style>
 
-<section class="callout">
+<a href={infoLink} class="callout" target="_blank">
   <header>
     <span>
       <Icon icon="bullhorn" color="var(--color1)" />
@@ -79,4 +84,4 @@
     <strong>{startDate}</strong>
     <strong>{endDate}</strong>
   </p>
-</section>
+</a>
