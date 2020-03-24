@@ -1,30 +1,30 @@
 ---
-- name: "4 x 4 Brewing"
+- name: 4 x 4 Brewing
   driveThru: false
   curbside: true
   takeout: false
   delivery: false
   onlineOrdering: false
   alcohol: true
-  phone: "471-861-6400"
-  website: "http://www.4by4brewingcompany.com/"
-  facebook: "https://www.facebook.com/4by4brewingco/"
-  twitter: "https://twitter.com/4by4Brewingco"
-  instagram: "https://www.instagram.com/4by4brewingco/"
-  info: "Cans/growlers Call or text 861-6400"
-- name: "5 Spice China Grill"
+  phone: 417-861-6400
+  website: http://www.4by4brewingcompany.com/
+  facebook: https://www.facebook.com/4by4brewingco/
+  twitter: https://twitter.com/4by4Brewingco
+  instagram: https://www.instagram.com/4by4brewingco/
+  info: Cans/growlers Call or text 861-6400
+- name: 5 Spice China Grill
   driveThru: true
   curbside: false
   takeout: false
   delivery:
-  - "Grubhub"
-  - "DoorDash"
-  - "UberEats"
+  - Grubhub
+  - DoorDash
+  - UberEats
   onlineOrdering: false
   alcohol: false
-  phone: "471-799-0215"
-  info: "Drive-thru or call ahead 799-0215"
-- name: "Amycakes Bakery"
+  phone: 417-799-0215
+  info: Drive-thru or call ahead 799-0215
+- name: Amycakes Bakery
   driveThru: false
   curbside: true
   takeout: false
@@ -32,214 +32,214 @@
   - CarGo
   onlineOrdering: true
   alcohol: false
-  phone: "471-831-6095"
-  info: "Order online or call 831-6095"
-- name: "Antojos Tacos y Mas"
-- name: "Archie’s Italian Eatery"
-- name: "Architect Coffee"
-- name: "Arris Pizza"
-- name: "Aviary Cafe"
-- name: "B2 Cafe"
-- name: "Bair’s Sports Grill"
-- name: "Bambino’s"
-- name: "Basilico Italian Cafe"
-- name: "Bawi Korean BBQ"
-- name: "Big Al's (Nixa)"
-- name: "Big Biscuit"
-- name: "Big Easy Grill"
-- name: "Big Momma's Coffee"
-- name: "Big Whiskey’s"
-- name: "Billiards of Springfield"
-- name: "Black Market Smokehouse"
-- name: "Black Sheep ASAP"
-- name: "Breadsmith"
-- name: "Bricktown Brewery (local beer)"
-- name: "Brown Derby Deli"
-- name: "Bruno's Italian Restaurant"
-- name: "Bubba’s BBQ"
-- name: "Buckingham Smokehouse"
-- name: "Cafe B-29 (Ozark)"
-- name: "Cafe Basilico"
+  phone: 417-831-6095
+  info: Order online or call 831-6095
+- name: Antojos Tacos y Mas
+- name: Archie’s Italian Eatery
+- name: Architect Coffee
+- name: Arris Pizza
+- name: Aviary Cafe
+- name: B2 Cafe
+- name: Bair’s Sports Grill
+- name: Bambino’s
+- name: Basilico Italian Cafe
+- name: Bawi Korean BBQ
+- name: Big Al's (Nixa)
+- name: Big Biscuit
+- name: Big Easy Grill
+- name: Big Momma's Coffee
+- name: Big Whiskey’s
+- name: Billiards of Springfield
+- name: Black Market Smokehouse
+- name: Black Sheep ASAP
+- name: Breadsmith
+- name: Bricktown Brewery (local beer)
+- name: Brown Derby Deli
+- name: Bruno's Italian Restaurant
+- name: Bubba’s BBQ
+- name: Buckingham Smokehouse
+- name: Cafe B-29 (Ozark)
+- name: Cafe Basilico
   giftCard: true
-- name: "Cafe Dhibs"
-- name: "Catrina's"
-- name: "Cashew Station"
-- name: "Cesar's Old Mexico"
-- name: "Cherry Picker"
-- name: "Chicago Cheesesteak"
-- name: "Chick-Fil-A (local franchisee)"
-- name: "China Star"
-- name: "City Cafe"
-- name: "Civil Kitchen"
-- name: "Classic Rock"
-- name: "Common Grounds Coffee (Strafford)"
-- name: "Coyote’s Adobe"
-- name: "Culver's (local franchisees)"
-- name: "Craft Sushi"
-- name: "Dancing Mule Coffee"
-- name: "Dark Stone Coffee"
-- name: "Doe's Eat Place"
-- name: "Domino’s (local franchisees)"
-- name: "Druff’s"
-- name: "Dugout Bar & Grill"
-- name: "Eat Fit Go"
-- name: "Edible Arrangements (local franchisee)"
-- name: "El Charro"
-- name: "El Puente"
-- name: "El Sombrero"
-- name: "Eurasia"
-- name: "European Cafe"
-- name: "Everyday Thai"
-- name: "Farm Fresh Bakery Nixa"
-- name: "Farmer's Gastropub"
-- name: "Fire and Ice"
-- name: "First Watch (local franchisees)"
-- name: "Fuji Japanese Steakhouse"
-- name: "Galloway Station"
-- name: "George’s Family Restaurant"
-- name: "Georgia Mac’s"
-- name: "Gilardi's"
-- name: "Grad School"
-- name: "Great American Taco Company"
-- name: "Great Escape Beer"
-- name: "Greek Belly"
-- name: "Godfather’s Pizza (local franchisees)"
-- name: "Golden Cuisine"
-- name: "Golden Girl Rum Club"
-- name: "Goodcents (local franchisees)"
-- name: "Harbell's"
-- name: "Hard Knox BBQ"
-- name: "Haruno"
-- name: "Healthy Bishes Meal Service"
-- name: "Hilltop Pizza (Fair Grove)"
-- name: "Hinode"
-- name: "Hold Fast Brewing"
-- name: "Hong Kong Inn"
-- name: "Houlihan's (local franchisee)"
-- name: "Hu Hot (local franchisee)"
-- name: "Hurts Donuts"
-- name: "Iguana Roja (Ozark)"
-- name: "I Love Tacos Taqueria"
-- name: "Infused Catering"
-- name: "Izume Hatake Japanese"
-- name: "J. Parrino’s Queen City Deli"
-- name: "Jade East Inc"
-- name: "Jamaican Patty Co"
-- name: "Jimm's Steakhouse"
-- name: "Jimmy John's (local franchisee)"
-- name: "Jose Locos"
-- name: "Just One More (Republic)"
-- name: "Kai After Dark"
-- name: "Kearney Street Cafe"
-- name: "King’s Asian Chef"
-- name: "Kingdom Coffee"
-- name: "Koriya"
-- name: "Krispy Kreme (local franchisee)"
-- name: "La Boba Cafe"
-- name: "La Hacienda"
-- name: "La Paloma"
-- name: "Leong’s Asian Diner"
-- name: "Lindberg’s Tavern"
-- name: "Little Caesars (local franchisee)"
-- name: "London Calling"
-- name: "Los Cabos"
-- name: "Luco's Pizza"
-- name: "Lost Signal"
-- name: "Lucy’s Chinese"
-- name: "Macadoodles"
-- name: "Mama Jean’s Deli"
-- name: "Mama Loca’s Cafe"
-- name: "Maso Pizza Bar"
-- name: "McSalty's"
-- name: "Meals by Monica"
-- name: "Metropolitan Grill"
-- name: "Mexican Villa"
-- name: "Moe's Southwest (local franchisee)"
-- name: "Momma Mary's Navajo Tacos (Willard)"
-- name: "Morning Day Cafe (Nixa)"
-- name: "Mother's Brewing Company"
-- name: "Mudhouse"
-- name: "Nakato Japanese Steakhouse"
-- name: "Nearly Famous Deli"
-- name: "Neighbor’s Mill"
-- name: "Neighborhood Pizza Cafe"
-- name: "Nicola’s Ristorante"
-- name: "NoBaked Cookie Dough"
-- name: "Nonna's"
-- name: "Norma's Carriage House"
-- name: "Ocean Zen"
-- name: "Ott’s Pasta"
-- name: "Ozark Mountain Popcorn"
-- name: "Panera Bread (local franchisee)"
-- name: "Pappo’s"
-- name: "Pappy’s Place BBQ"
-- name: "Pasta Express"
-- name: "Peking House"
-- name: "Penn Station (local franchisee)"
-- name: "Piccolo (Nixa)"
-- name: "Pitt's BBQ"
-- name: "Pizza House"
-- name: "Prima’s Mexican Kitchen"
-- name: "Progress"
-- name: "Queen City Wine Dive"
-- name: "Rama Thai"
-- name: "Red’s Giant Hamburg"
-- name: "ReRico Brazilian Grill"
-- name: "Riad"
-- name: "Rib Crib Ozark (local franchisees)"
-- name: "Rocco’s Pizza"
-- name: "Root's Coffee Bar"
-- name: "Sakura Japanese"
-- name: "Salvatore’s Italian (Ozark)"
-- name: "Sam’s Southern Eatery"
-- name: "Sandy’s Deli (Nixa)"
-- name: "Scramblers Diner"
-- name: "Shanghai Inn"
-- name: "Skully’s Food Truck"
-- name: "Smith’s Restaurant"
-- name: "SocieTea"
-- name: "Southbound"
-- name: "Springfield Diner"
-- name: "Springfield Ave Cafe (Bolivar)"
-- name: "St. George’s BBQ"
-- name: "St. Michael’s"
-- name: "Star Cakes"
-- name: "Sugarfire BBQ"
-- name: "Sushi Village"
-- name: "Sweetnsnow"
-- name: "Tacos El Gordo"
-- name: "Taj Mahal Indian Restaurant"
-- name: "Tequila and Mezcal Mexican Cuisine"
-- name: "Thai Express"
-- name: "The Artisan's Oven"
-- name: "The Big Slice"
-- name: "The Black Lab Coffee Company"
-- name: "The Coffee Ethic"
-- name: "The Fat Cat Pizza Co (Strafford)"
-- name: "The Finley"
-- name: "The Hill"
-- name: "That Lebanese Place"
-- name: "The Press Coffee & Juice Bar"
-- name: "The Pitch Pizza & Pub"
-- name: "The Rock - Food & Friends"
-- name: "The Vineyard Market (Ozark)"
-- name: "The Wheelhouse"
-- name: "The Wildseed (Strafford)"
-- name: "Tie and Timber"
-- name: "Time Travel Cafe"
-- name: "Tinga Tacos"
-- name: "Tong's Thai Cuisine"
-- name: "Tortilleria Perches"
-- name: "Traveller’s House Coffee"
-- name: "Triple Eights Chinese"
-- name: "Tropical Smoothie (local franchisees)"
-- name: "Vic’s Pastries"
-- name: "Village Inn"
-- name: "Village Pottery Cafe"
-- name: "Vino Cellars"
-- name: "Vito's Kitchen"
-- name: "W.F. Cody's"
-- name: "Whole Hog Cafe"
-- name: "Wilson’s Chuckwagon"
-- name: "Yanni’s Greek Gyros"
-- name: "Zayka Indian"
+- name: Cafe Dhibs
+- name: Catrina's
+- name: Cashew Station
+- name: Cesar's Old Mexico
+- name: Cherry Picker
+- name: Chicago Cheesesteak
+- name: Chick-Fil-A (local franchisee)
+- name: China Star
+- name: City Cafe
+- name: Civil Kitchen
+- name: Classic Rock
+- name: Common Grounds Coffee (Strafford)
+- name: Coyote’s Adobe
+- name: Culver's (local franchisees)
+- name: Craft Sushi
+- name: Dancing Mule Coffee
+- name: Dark Stone Coffee
+- name: Doe's Eat Place
+- name: Domino’s (local franchisees)
+- name: Druff’s
+- name: Dugout Bar & Grill
+- name: Eat Fit Go
+- name: Edible Arrangements (local franchisee)
+- name: El Charro
+- name: El Puente
+- name: El Sombrero
+- name: Eurasia
+- name: European Cafe
+- name: Everyday Thai
+- name: Farm Fresh Bakery Nixa
+- name: Farmer's Gastropub
+- name: Fire and Ice
+- name: First Watch (local franchisees)
+- name: Fuji Japanese Steakhouse
+- name: Galloway Station
+- name: George’s Family Restaurant
+- name: Georgia Mac’s
+- name: Gilardi's
+- name: Grad School
+- name: Great American Taco Company
+- name: Great Escape Beer
+- name: Greek Belly
+- name: Godfather’s Pizza (local franchisees)
+- name: Golden Cuisine
+- name: Golden Girl Rum Club
+- name: Goodcents (local franchisees)
+- name: Harbell's
+- name: Hard Knox BBQ
+- name: Haruno
+- name: Healthy Bishes Meal Service
+- name: Hilltop Pizza (Fair Grove)
+- name: Hinode
+- name: Hold Fast Brewing
+- name: Hong Kong Inn
+- name: Houlihan's (local franchisee)
+- name: Hu Hot (local franchisee)
+- name: Hurts Donuts
+- name: Iguana Roja (Ozark)
+- name: I Love Tacos Taqueria
+- name: Infused Catering
+- name: Izume Hatake Japanese
+- name: J. Parrino’s Queen City Deli
+- name: Jade East Inc
+- name: Jamaican Patty Co
+- name: Jimm's Steakhouse
+- name: Jimmy John's (local franchisee)
+- name: Jose Locos
+- name: Just One More (Republic)
+- name: Kai After Dark
+- name: Kearney Street Cafe
+- name: King’s Asian Chef
+- name: Kingdom Coffee
+- name: Koriya
+- name: Krispy Kreme (local franchisee)
+- name: La Boba Cafe
+- name: La Hacienda
+- name: La Paloma
+- name: Leong’s Asian Diner
+- name: Lindberg’s Tavern
+- name: Little Caesars (local franchisee)
+- name: London Calling
+- name: Los Cabos
+- name: Luco's Pizza
+- name: Lost Signal
+- name: Lucy’s Chinese
+- name: Macadoodles
+- name: Mama Jean’s Deli
+- name: Mama Loca’s Cafe
+- name: Maso Pizza Bar
+- name: McSalty's
+- name: Meals by Monica
+- name: Metropolitan Grill
+- name: Mexican Villa
+- name: Moe's Southwest (local franchisee)
+- name: Momma Mary's Navajo Tacos (Willard)
+- name: Morning Day Cafe (Nixa)
+- name: Mother's Brewing Company
+- name: Mudhouse
+- name: Nakato Japanese Steakhouse
+- name: Nearly Famous Deli
+- name: Neighbor’s Mill
+- name: Neighborhood Pizza Cafe
+- name: Nicola’s Ristorante
+- name: NoBaked Cookie Dough
+- name: Nonna's
+- name: Norma's Carriage House
+- name: Ocean Zen
+- name: Ott’s Pasta
+- name: Ozark Mountain Popcorn
+- name: Panera Bread (local franchisee)
+- name: Pappo’s
+- name: Pappy’s Place BBQ
+- name: Pasta Express
+- name: Peking House
+- name: Penn Station (local franchisee)
+- name: Piccolo (Nixa)
+- name: Pitt's BBQ
+- name: Pizza House
+- name: Prima’s Mexican Kitchen
+- name: Progress
+- name: Queen City Wine Dive
+- name: Rama Thai
+- name: Red’s Giant Hamburg
+- name: ReRico Brazilian Grill
+- name: Riad
+- name: Rib Crib Ozark (local franchisees)
+- name: Rocco’s Pizza
+- name: Root's Coffee Bar
+- name: Sakura Japanese
+- name: Salvatore’s Italian (Ozark)
+- name: Sam’s Southern Eatery
+- name: Sandy’s Deli (Nixa)
+- name: Scramblers Diner
+- name: Shanghai Inn
+- name: Skully’s Food Truck
+- name: Smith’s Restaurant
+- name: SocieTea
+- name: Southbound
+- name: Springfield Diner
+- name: Springfield Ave Cafe (Bolivar)
+- name: St. George’s BBQ
+- name: St. Michael’s
+- name: Star Cakes
+- name: Sugarfire BBQ
+- name: Sushi Village
+- name: Sweetnsnow
+- name: Tacos El Gordo
+- name: Taj Mahal Indian Restaurant
+- name: Tequila and Mezcal Mexican Cuisine
+- name: Thai Express
+- name: The Artisan's Oven
+- name: The Big Slice
+- name: The Black Lab Coffee Company
+- name: The Coffee Ethic
+- name: The Fat Cat Pizza Co (Strafford)
+- name: The Finley
+- name: The Hill
+- name: That Lebanese Place
+- name: The Press Coffee & Juice Bar
+- name: The Pitch Pizza & Pub
+- name: The Rock - Food & Friends
+- name: The Vineyard Market (Ozark)
+- name: The Wheelhouse
+- name: The Wildseed (Strafford)
+- name: Tie and Timber
+- name: Time Travel Cafe
+- name: Tinga Tacos
+- name: Tong's Thai Cuisine
+- name: Tortilleria Perches
+- name: Traveller’s House Coffee
+- name: Triple Eights Chinese
+- name: Tropical Smoothie (local franchisees)
+- name: Vic’s Pastries
+- name: Village Inn
+- name: Village Pottery Cafe
+- name: Vino Cellars
+- name: Vito's Kitchen
+- name: W.F. Cody's
+- name: Whole Hog Cafe
+- name: Wilson’s Chuckwagon
+- name: Yanni’s Greek Gyros
+- name: Zayka Indian
