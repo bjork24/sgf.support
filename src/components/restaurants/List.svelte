@@ -1,9 +1,13 @@
 <script>
   import RestaurantCard from './Card.svelte'
-  import { activeFilters, restaurants } from './store.js'
+  import { restaurants } from './store.js'
 </script>
 
 <style>
+  h1 {
+    margin: 0;
+    font-size: 1.5rem;
+  }
   div > :global(article:last-child) {
     border-bottom-width: 0;
   }
@@ -14,6 +18,9 @@
 </svelte:head>
 
 <div>
+  <h1>
+    {$restaurants.length} local {$restaurants.length > 1 || !$restaurants.length ? 'restaurants' : 'restaurant'}
+  </h1>
   {#each $restaurants as restaurant, i (i + restaurant.name)}
     <RestaurantCard {restaurant} />
   {/each}
