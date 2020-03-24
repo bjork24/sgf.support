@@ -2,9 +2,12 @@
   import { Router, Route, link } from 'svelte-routing'
   import LinkList from './components/links/List.svelte'
   import RestaurantList from './components/restaurants/List.svelte'
+  import ResourcesList from './components/resources/List.svelte'
   import Sidebar from './components/Sidebar.svelte'
   import HotlineHeader from './components/HotlineHeader.svelte'
   import SiteNav from './components/SiteNav.svelte'
+  import Callout from './components/Callout.svelte'
+  import Contact from './components/Contact.svelte'
 </script>
 
 <style>
@@ -14,15 +17,16 @@
     flex-flow: row-reverse;
   }
   aside {
-    /* background-color: pink; */
     flex-basis: 30%;
     min-width: 250px;
   }
   section {
-    /* background-color: yellow; */
     flex-grow: 1;
     margin: 0 0 0 2rem;
     flex-basis: 70%;
+  }
+  :global(.callout) {
+    margin-bottom: 2rem;
   }
   @media (max-width: 700px) {
     main {
@@ -39,8 +43,11 @@
   <SiteNav {route} />
   <main>
     <section>
+      <Callout />
       <Route path="/" component={LinkList} />
       <Route path="/restaurants" component={RestaurantList} />
+      <Route path="/resources" component={ResourcesList} />
+      <Route path="/contact" component={Contact} />
     </section>
     <aside>
       <Sidebar {route} />

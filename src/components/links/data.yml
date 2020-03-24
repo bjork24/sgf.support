@@ -1,13 +1,31 @@
 ---
 days:
-  - header: 'Tuesday, March 24'
+  - header: Tuesday, March 24
     links:
+      - http://ozarksindependent.com/2020/03/24/read-the-stay-at-home-orders-of-springfield-plus-frequently-asked-questions/
+      - https://www.ky3.com/content/news/WATCH-LIVE-3-pm-Springfield-Greene-County-leaders-discuss-LATEST-on-COVID-19-crisis-569065341.html
+      - http://ozarksindependent.com/2020/03/24/two-more-deaths-in-greene-county-from-covid-19-public-warning-issued-on-18th-case/
       - https://www.ky3.com/content/news/Local-health-officials-ask-state-for-three-month-shelter-in-place-order-statewide-569036281.html
-  - header: 'Friday, March 20'
+  - header: Monday, March 23
     links:
-      - https://twitter.com/Sgf_Cardinals/status/1240756947894272000
-      - https://twitter.com/HammonsHall/status/1240735365843038213
-  - header: 'Thursday, March 19'
+      - https://www.news-leader.com/story/news/local/ozarks/2020/03/23/greene-county-reports-first-coronavirus-death/2904470001/
+      - https://www.ky3.com/content/news/Springfield-Public-Schools-offers-free-meals-to-parents-as-schools-stay-closed-569031601.html
+  - header: Sunday, March 22
     links:
+      - https://www.news-leader.com/story/news/local/ozarks/2020/03/23/i-cant-believe-reality-local-biz-owner-says/2875559001/
+  - header: Saturday, March 21
+    links:
+      - https://www.news-leader.com/story/news/local/ozarks/2020/03/21/springfield-bus-schedule-routes-change-protect-passengers-drivers/2891542001/
+  - header: Friday, March 20
+    links:
+      - https://www.news-leader.com/story/news/local/ozarks/2020/03/20/greene-county-now-has-8-covid-19-cases-cox-has-120-ventilators/2889782001/
+  - header: Thursday, March 19
+    links:
+      - https://www.news-leader.com/story/news/local/ozarks/2020/03/19/mercy-springfield-director-quality-talks-response-covid-19/2879173001/
+      - https://www.news-leader.com/story/news/education/2020/03/19/sps-teachers-told-return-work-next-week-fear-health-risks/2876399001/
+      - https://www.news-leader.com/story/news/local/ozarks/2020/03/19/has-anyone-died-coronavirus-greene-county-we-dont-know/2872845001/
       - https://www.ky3.com/content/news/Two-more-cases-of-Coronavirus-confirmed-in-Greene-County-now-6-total-568930461.html
       - https://ccheadliner.com/free/covid--patient-attended-church-in-ozark-march/article_d87f9bf6-6a23-11ea-a82d-fb3b89681ad8.html
+  - header: Wednesday, March 18
+    links:
+      - https://www.news-leader.com/story/news/local/missouri/2020/03/18/report-assemblies-god-missions-director-positive-covid-19/2872864001/

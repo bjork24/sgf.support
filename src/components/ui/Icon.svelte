@@ -12,6 +12,7 @@
   import FaGift from 'svelte-icons/fa/FaGift.svelte'
   import FaCheckSquare from 'svelte-icons/fa/FaCheckSquare.svelte'
   import FaRegSquare from 'svelte-icons/fa/FaRegSquare.svelte'
+  import FaBullhorn from 'svelte-icons/fa/FaBullhorn.svelte'
   export let icon = false
   export let color = 'var(--color-primary)'
   export let scale = '1'
@@ -57,6 +58,8 @@
     <FaCheckSquare />
   {:else if icon === 'checkbox-off'}
     <FaRegSquare />
+  {:else if icon === 'bullhorn'}
+    <FaBullhorn />
   {/if}
 
 </span>

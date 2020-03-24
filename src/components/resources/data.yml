@@ -1,0 +1,24 @@
+---
+- title: Missouri DHSS
+  link: https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/
+  local: true
+  sidebar: true
+- title: Missour COVID-19 cases
+  link: https://www.arcgis.com/apps/opsdashboard/index.html#/1fd32012487c4e5c936a13389f9731c3
+  local: true
+  sidebar: true
+- title: Greene County impact
+  link: https://emgis.oa.mo.gov/PHEP/infographics/greene.html
+  local: true
+  sidebar: true
+- title: SGF-area cancellations
+  link: https://www.news-leader.com/story/news/local/ozarks/2020/03/13/springfield-area-events-cancelled-postponed-due-coronavirus/5035932002/
+  local: true
+  sidebar: true
+- title: School closings
+  link: https://www.ky3.com/weather/closings
+  local: true
+  sidebar: true
+- title: CDC information
+  link: https://www.cdc.gov/coronavirus/2019-nCoV/index.html
+  sidebar: true

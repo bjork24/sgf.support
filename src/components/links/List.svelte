@@ -24,7 +24,6 @@
     justify-content: space-between;
   }
   div :global(article) {
-    /* flex-basis: calc(50% - 1rem); */
     flex-basis: 100%;
     margin-bottom: 2rem;
   }
