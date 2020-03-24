@@ -25,6 +25,11 @@
     color: var(--color-primary);
     cursor: pointer;
     background: var(--color1);
+    font-size: 0.8rem;
+  }
+  span {
+    position: relative;
+    bottom: -1px;
   }
   button:hover {
     background: #fff;
