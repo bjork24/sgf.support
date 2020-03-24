@@ -1,6 +1,11 @@
 <script>
+  import { onMount } from 'svelte'
   import RestaurantCard from './Card.svelte'
   import { restaurants } from './store.js'
+
+  onMount(() => {
+    window.scrollTo(0, 0)
+  })
 </script>
 
 <style>

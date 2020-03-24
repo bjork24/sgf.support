@@ -1,6 +1,11 @@
 <script>
+  import { onMount } from 'svelte'
   import LinkCard from './Card.svelte'
   import { days } from './data.yml'
+
+  onMount(() => {
+    window.scrollTo(0, 0)
+  })
 </script>
 
 <style>
