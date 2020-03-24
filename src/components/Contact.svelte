@@ -1,30 +1,39 @@
 <script>
-  import serializer from 'form-serialize'
-  function submitForm(e) {
-    console.log(serializer(e.target))
+  const formData = {
+    name: 'Dan Chilton',
+    email: 'dan.chilton@gmail.com',
+    action: '/restaurants'
+  }
+
+  const encode = data => {
+    return Object.keys(data)
+      .map(key => encodeURIComponent(key) + '=' + encodeURIComponent(data[key]))
+      .join('&')
+  }
+
+  function handleSubmit() {
+    console.log(formData, encode({ 'form-name': 'contact', ...formData }))
     fetch('/', {
       method: 'POST',
       headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-      body: serializer(e.target)
+      body: encode({ 'form-name': 'contact', ...formData })
     })
-      .then(data => console.log(data))
+      .then(() => alert('Success!'))
       .catch(error => alert(error))
   }
 </script>
 
-<form netlify on:submit|preventDefault={submitForm}>
-  <input type="hidden" name="form-name" value="contact" />
-  <input type="hidden" name="action" value="/restaurants" />
+<form name="contact" on:submit|preventDefault={handleSubmit}>
   <p>
     <label>
       Name
-      <input type="text" name="name" value="dan chilton" />
+      <input type="text" name="name" bind:value={formData.name} />
     </label>
   </p>
   <p>
     <label>
       Email
-      <input type="email" name="email" value="dan@dan.com" />
+      <input type="email" name="email" bind:value={formData.email} />
     </label>
   </p>
   <p>
