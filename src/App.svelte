@@ -1,8 +1,8 @@
 <script>
   import { Router, Route, link } from 'svelte-routing'
-  import LinksList from './components/LinksList.svelte'
-  import Public from './pages/Public.svelte'
-  import NotFound from './pages/NotFound.svelte'
+  import LinkList from './components/links/List.svelte'
+  import RestaurantList from './components/restaurants/List.svelte'
+  import Sidebar from './components/Sidebar.svelte'
   import HotlineHeader from './components/HotlineHeader.svelte'
   import SiteNav from './components/SiteNav.svelte'
 </script>
@@ -14,7 +14,7 @@
     flex-flow: row-reverse;
   }
   aside {
-    background-color: pink;
+    /* background-color: pink; */
     flex-basis: 30%;
     min-width: 250px;
   }
@@ -39,11 +39,11 @@
   <SiteNav {route} />
   <main>
     <section>
-      <Route path="/public" component={Public} />
-      <Route path="/" component={LinksList} />
+      <Route path="/" component={LinkList} />
+      <Route path="/restaurants" component={RestaurantList} />
     </section>
     <aside>
-      <a href="/public" use:link>Public</a>
+      <Sidebar {route} />
     </aside>
   </main>
 </Router>
