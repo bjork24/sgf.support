@@ -1,6 +1,6 @@
 <style>
   header {
-    background-color: var(--color-danger);
+    background-color: var(--color4);
     text-align: center;
     padding: 0.5rem;
     font-size: 1.25rem;

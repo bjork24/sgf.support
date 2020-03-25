@@ -15,6 +15,10 @@
     padding: 1rem;
     border-radius: 6px;
     margin-bottom: 1rem;
+    border: 1px solid transparent;
+  }
+  .resources a:hover {
+    border: 1px solid var(--color-primary);
   }
   .resources + a {
     text-align: right;

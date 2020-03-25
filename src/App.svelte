@@ -15,6 +15,8 @@
     padding: 2rem 1rem;
     display: flex;
     flex-flow: row-reverse;
+    position: relative;
+    z-index: 0;
   }
   aside {
     flex-basis: 30%;
