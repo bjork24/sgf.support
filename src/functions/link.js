@@ -8,7 +8,8 @@ exports.handler = async (event, context) => {
     metadata.description = linky(metadata.description, { target: '_blank' })
     return {
       statusCode: 200,
-      headers: { 'Cache-Control': 'public, s-maxage=31536000' },
+      // headers: { 'Cache-Control': 'public, s-maxage=31536000' },
+      headers: { 'Cache-Control': 'public, s-maxage=0' },
       body: JSON.stringify(metadata)
     }
   } catch (err) {
