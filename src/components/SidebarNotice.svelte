@@ -16,7 +16,7 @@
     border-top-width: 0;
     border-bottom-width: 1px;
   }
-  .notice a {
+  .notice :global(a) {
     color: var(--color-success);
   }
 </style>

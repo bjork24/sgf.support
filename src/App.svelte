@@ -48,9 +48,7 @@
   <SiteNav {route} />
   <main>
     <section>
-      {#if !['/events', '/nonprofits', '/retail'].includes(route)}
-        <Callout />
-      {/if}
+      <Callout />
       <Route path="/" component={LinkList} />
       <Route path="/restaurants" component={RestaurantList} />
       <Route path="/resources" component={ResourcesList} />
