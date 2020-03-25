@@ -1,7 +1,7 @@
 <script>
   import LinkSidebar from './links/Sidebar.svelte'
   import RestaurantSidebar from './restaurants/Sidebar.svelte'
-  import RestaurantLink from './restaurants/SidebarLink.svelte'
+  import ResourcesSidebar from './resources/Sidebar.svelte'
   import ResourcesLink from './resources/SidebarLink.svelte'
   export let route
 </script>
@@ -11,7 +11,7 @@
 {:else if route === '/restaurants'}
   <RestaurantSidebar />
 {:else if route === '/resources'}
-  <RestaurantLink />
+  <ResourcesSidebar />
 {:else}
   <ResourcesLink />
 {/if}
