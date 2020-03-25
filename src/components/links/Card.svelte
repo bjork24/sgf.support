@@ -1,17 +1,18 @@
 <script>
   import { onMount } from 'svelte'
-  export let link = false
-  export let date = false
-  export let cacheIndex = 0
+  export let obj = false
+
+  const { date, link } = obj
 
   let article = false
 
   onMount(async () => {
-    const res = await fetch('/.netlify/functions/link/' + link)
+    const res = await fetch(
+      '/.netlify/functions/link/' + encodeURIComponent(link)
+    )
     article = await res.json()
     const matches = link.match(/^https?\:\/\/([^\/?#]+)(?:[\/?#]|$)/i)
     article.domain = matches && matches[1].toLowerCase().replace('www.', '')
-    article.twitter = article.domain === 'twitter.com'
   })
 
   function openLink() {
@@ -73,22 +74,32 @@
     color: var(--color2);
     font-size: 0.75rem;
   }
+  .loading {
+    padding-right: 1rem;
+  }
+  .loading a {
+    display: block;
+    text-align: center;
+    color: var(--color-success);
+  }
 </style>
 
-<article>
+<article class:loading={!article}>
   {#if article}
     {#if article.image}
       <figure
         on:click={openLink}
         style="background-image: url({article.image});" />
     {/if}
-    <h5 on:click={openLink}>{article.domain}</h5>
+    {#if article.publisher !== 'Twitter'}
+      <h5 on:click={openLink}>{article.publisher}</h5>
+    {/if}
     <h2 on:click={openLink}>{article.title}</h2>
     <p>
       {@html article.description}
     </p>
     <small>{date}</small>
   {:else}
-    <p>loading.....</p>
+    <a href={link} target="_blank">{link}</a>
   {/if}
 </article>
