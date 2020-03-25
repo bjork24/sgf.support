@@ -1,24 +1,37 @@
 ---
-- title: Missouri DHSS
+- title: "\"Stay at Home\" FAQ"
+  desc: "Springfield's \"Stay at Home\" Frequently Asked Questions"
+  link: https://www.springfieldmo.gov/DocumentCenter/View/48364/COVID-19-Stay-At-Home-Order-FAQ
+  local: true
+  sidebar: true
+- title: MO Dept of Health
+  desc: Missouri Department of Health and Senior Services COVID-19 information
   link: https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/
   local: true
   sidebar: true
-- title: Missour COVID-19 cases
+- title: Missouri COVID-19 cases
+  desc: Dashboard of Missouri COVID-19 cases by county
   link: https://www.arcgis.com/apps/opsdashboard/index.html#/1fd32012487c4e5c936a13389f9731c3
   local: true
   sidebar: true
 - title: Greene County impact
+  desc: Greene County population impact of COVID-19
   link: https://emgis.oa.mo.gov/PHEP/infographics/greene.html
   local: true
   sidebar: true
 - title: SGF-area cancellations
+  desc: Springfield-area cancellations and postponements
   link: https://www.news-leader.com/story/news/local/ozarks/2020/03/13/springfield-area-events-cancelled-postponed-due-coronavirus/5035932002/
   local: true
   sidebar: true
 - title: School closings
+  desc: Springfield-area school closings
   link: https://www.ky3.com/weather/closings
   local: true
-  sidebar: true
+- title: COVID-19 business toolkit
+  desc: Springfield Business Journal's COVID-19 business toolkit
+  link: https://cdn1.creativecirclemedia.com/sbj/files/20200323-172234-SBJ%20COVID-19%20Toolkit.pdf
+  local: true
 - title: CDC information
+  desc: COVID-19 information from CDC
   link: https://www.cdc.gov/coronavirus/2019-nCoV/index.html
-  sidebar: true
