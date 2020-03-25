@@ -27,7 +27,7 @@
 
 <div class="resources">
   {#each sidebarResources as resource}
-    <a href={resource.link} target="_blank">{resource.title}</a>
+    <a href={resource.link} target="_blank">{resource.sidebar}</a>
   {/each}
 </div>
 <a href="/resources" use:link>More resources...</a>

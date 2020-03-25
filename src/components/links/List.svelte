@@ -6,15 +6,6 @@
   onMount(() => {
     window.scrollTo(0, 0)
   })
-
-  function makeCacheToken(header, idx) {
-    const dateToken = header
-      .toLowerCase()
-      .replace(',', '')
-      .split(' ')
-      .join('-')
-    return dateToken + idx
-  }
 </script>
 
 <style>
