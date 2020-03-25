@@ -24,7 +24,7 @@
   aside {
     flex-basis: 30%;
     min-width: 250px;
-    margin-right: 2rem;
+    margin: 0 2rem 0 0;
   }
   aside.hidden {
     display: none;
@@ -40,8 +40,8 @@
     main {
       flex-flow: column;
     }
-    section {
-      margin: 0 0 1rem 0;
+    aside {
+      margin: 2rem 0 0 0;
     }
   }
 </style>
