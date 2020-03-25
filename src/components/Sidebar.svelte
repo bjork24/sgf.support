@@ -4,7 +4,6 @@
   import RestaurantLink from './restaurants/SidebarLink.svelte'
   import ResourcesLink from './resources/SidebarLink.svelte'
   export let route
-  console.log('route = ' + route)
 </script>
 
 {#if route === '/'}
@@ -13,6 +12,6 @@
   <RestaurantSidebar />
 {:else if route === '/resources'}
   <RestaurantLink />
-{:else if route === '/about' || route === '/contact'}
+{:else}
   <ResourcesLink />
 {/if}

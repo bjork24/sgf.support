@@ -1,8 +1,8 @@
-### Template for `links.yml`
+### Template for `data.yml`
 
 ```yml
-- title: 'Missouri DHSS'
-  link: 'https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/'
+- title: Missouri DHSS
+  link: https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/
   local: true
   sidebar: true
 ```
