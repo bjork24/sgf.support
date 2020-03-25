@@ -2,8 +2,8 @@ const { grabIt } = require('grabity')
 const linky = require('linky')
 
 exports.handler = async (event, context) => {
+  const url = event.path.replace(/\.netlify\/functions\/[^/]+\//, '').substr(1)
   try {
-    const { url } = event.queryStringParameters
     const metadata = await grabIt(url)
     metadata.description = linky(metadata.description, { target: '_blank' })
     return {

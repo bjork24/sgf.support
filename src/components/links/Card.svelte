@@ -7,9 +7,7 @@
   let article = false
 
   onMount(async () => {
-    const res = await fetch(
-      `/.netlify/functions/link/${cacheIndex}?url=${link}`
-    )
+    const res = await fetch('/.netlify/functions/link/' + link)
     article = await res.json()
     const matches = link.match(/^https?\:\/\/([^\/?#]+)(?:[\/?#]|$)/i)
     article.domain = matches && matches[1].toLowerCase().replace('www.', '')

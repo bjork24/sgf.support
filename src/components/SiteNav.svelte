@@ -166,7 +166,7 @@
       <a href="/restaurants" use:link class:active={route === '/restaurants'}>
         Restaurants
       </a>
-      <a href="/non-profits" use:link class:active={route === '/non-profits'}>
+      <a href="/nonprofits" use:link class:active={route === '/nonprofits'}>
         Charities & Non-profits
       </a>
       <a href="/retail" use:link class:active={route === '/retail'}>Retail</a>

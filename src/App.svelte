@@ -3,6 +3,9 @@
   import LinkList from './components/links/List.svelte'
   import RestaurantList from './components/restaurants/List.svelte'
   import ResourcesList from './components/resources/List.svelte'
+  import EventsList from './components/events/List.svelte'
+  import NonprofitsList from './components/nonprofits/List.svelte'
+  import RetailList from './components/retail/List.svelte'
   import Sidebar from './components/Sidebar.svelte'
   import HotlineHeader from './components/HotlineHeader.svelte'
   import SiteNav from './components/SiteNav.svelte'
@@ -21,10 +24,13 @@
   aside {
     flex-basis: 30%;
     min-width: 250px;
+    margin: 0 2rem 0 0;
+  }
+  aside.hidden {
+    display: none;
   }
   section {
     flex-grow: 1;
-    margin: 0 0 0 2rem;
     flex-basis: 70%;
   }
   :global(.callout) {
@@ -34,8 +40,8 @@
     main {
       flex-flow: column;
     }
-    section {
-      margin: 0 0 1rem 0;
+    aside {
+      margin: 2rem 0 0 0;
     }
   }
 </style>
@@ -45,10 +51,15 @@
   <SiteNav {route} />
   <main>
     <section>
-      <Callout />
+      {#if !['/events', '/nonprofits', '/retail'].includes(route)}
+        <Callout />
+      {/if}
       <Route path="/" component={LinkList} />
       <Route path="/restaurants" component={RestaurantList} />
       <Route path="/resources" component={ResourcesList} />
+      <Route path="/events" component={EventsList} />
+      <Route path="/nonprofits" component={NonprofitsList} />
+      <Route path="/retail" component={RetailList} />
       <Route path="/about" component={About} {route} />
       <Route path="/contact" component={About} {route} />
     </section>

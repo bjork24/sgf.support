@@ -1,7 +1,5 @@
 <script>
   import { link } from 'svelte-routing'
-
-  import ResourceSidebarLink from '../resources/SidebarLink.svelte'
   import RestaurantSidebarLink from '../restaurants/SidebarLink.svelte'
   import SidebarNotice from '../SidebarNotice.svelte'
 </script>
@@ -13,7 +11,6 @@
 </style>
 
 <div>
-  <ResourceSidebarLink />
   <RestaurantSidebarLink />
 
   <SidebarNotice>

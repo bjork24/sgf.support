@@ -2,6 +2,7 @@
   import Icon from '../ui/Icon.svelte'
   import { link } from 'svelte-routing'
   import RestaurantSidebarButton from './SidebarButton.svelte'
+  import SidebarNotice from '../SidebarNotice.svelte'
   import { filters } from './filters.js'
 </script>
 
@@ -28,7 +29,7 @@
   }
 </style>
 
-<div class="sources">
+<SidebarNotice top={true}>
   Restaurant information is being sourced from
   <a
     href="https://docs.google.com/document/d/1gK9HD_oUu9QMAmMDlM6oZFXfxrhw0roiD31bta9-sZ4/edit?fbclid=IwAR3m8_WdMjjDWestMxMVxewy-cEcWrGsvws1_UiAfCjD6mPciVetjl-lgYg"
@@ -41,7 +42,7 @@
   <a href="https://github.com/bjork24/sgf.support/issues" target="_blank">
     Github issue.
   </a>
-</div>
+</SidebarNotice>
 
 <div class="filters">
   <h1>Filters:</h1>

@@ -5,4 +5,4 @@ A centralized site for information about supporting Springfield, MO small busine
 # run locally
 
 1. Clone the repo and install packages with yarn or npm
-2. `ntl dev`
+2. `npm run ntl`
