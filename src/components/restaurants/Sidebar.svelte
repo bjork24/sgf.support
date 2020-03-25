@@ -7,15 +7,6 @@
 </script>
 
 <style>
-  .sources {
-    margin: 0 0 2.5rem;
-    padding-bottom: 2.5rem;
-    border-bottom: 1px solid var(--color-primary);
-    font-size: 0.9rem;
-  }
-  .sources a {
-    color: var(--color-success);
-  }
   .filters {
     position: sticky;
     top: 1rem;

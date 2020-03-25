@@ -10,7 +10,9 @@ const linky = require('linky')
 const got = require('got')
 
 exports.handler = async (event, context) => {
-  const encodedUrl = event.path.replace(/\.netlify\/functions\/[^/]+\//, '').substr(1)
+  const encodedUrl = event.path
+    .replace(/\.netlify\/functions\/[^/]+\//, '')
+    .substr(1)
   const decodedUrl = decodeURIComponent(encodedUrl)
   const { body: html, url } = await got(decodedUrl)
   try {
@@ -18,7 +20,10 @@ exports.handler = async (event, context) => {
     metadata.description = linky(metadata.description, { target: '_blank' })
     return {
       statusCode: 200,
-      headers: { 'Cache-Control': 'public, s-maxage=0' },
+      headers: {
+        'Cache-Control': 'public, s-maxage=0',
+        ETag: '9a8eu98uasdg8uasd98u9u88298h'
+      },
       body: JSON.stringify(metadata)
     }
   } catch (err) {

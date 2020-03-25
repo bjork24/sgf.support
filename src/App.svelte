@@ -26,9 +26,6 @@
     min-width: 250px;
     margin: 0 2rem 0 0;
   }
-  aside.hidden {
-    display: none;
-  }
   section {
     flex-grow: 1;
     flex-basis: 70%;
