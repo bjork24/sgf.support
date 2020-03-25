@@ -133,7 +133,7 @@
       <img src="./android-chrome-96x96.png" alt="" />
     </a>
     <a href="/" title use:link>
-      <h1>SGF.SUPPORT {menuActive}</h1>
+      <h1>SGF.SUPPORT</h1>
       <small>COVID-19 info for Springfield, MO</small>
     </a>
     <button on:click={toggleMenu}>
