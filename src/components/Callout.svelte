@@ -2,7 +2,7 @@
   import Icon from './ui/Icon.svelte'
 
   const infoLink =
-    'http://ozarksindependent.com/2020/03/24/read-the-stay-at-home-orders-of-springfield-plus-frequently-asked-questions/'
+    'https://www.springfieldmo.gov/DocumentCenter/View/48364/COVID-19-Stay-At-Home-Order-FAQ'
 
   const startDate = 'March 26'
   const endDate = 'April 25'
