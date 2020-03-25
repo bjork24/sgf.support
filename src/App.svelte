@@ -7,7 +7,7 @@
   import HotlineHeader from './components/HotlineHeader.svelte'
   import SiteNav from './components/SiteNav.svelte'
   import Callout from './components/Callout.svelte'
-  import Contact from './components/Contact.svelte'
+  import About from './components/About.svelte'
 </script>
 
 <style>
@@ -47,7 +47,8 @@
       <Route path="/" component={LinkList} />
       <Route path="/restaurants" component={RestaurantList} />
       <Route path="/resources" component={ResourcesList} />
-      <Route path="/contact" component={Contact} />
+      <Route path="/about" component={About} {route} />
+      <Route path="/contact" component={About} {route} />
     </section>
     <aside>
       <Sidebar {route} />
