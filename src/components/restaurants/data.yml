@@ -8,31 +8,37 @@
   twitter: https://twitter.com/4by4Brewingco
   info: 11-8 daily Cans/growlers Call/text
 - name: 5 Spice China Grill
-  website: https://www.facebook.com/pg/5-Spice-China-Grill-182145216046/photos/?tab%3Dalbum%26album_id%3D10151109260796047%26ref%3Dpage_internal&sa=D&ust=1585176272743000
+  website: http://eatoceanzen.com/five_spice.php
   phone: 417-799-0215
   delivery:
   - GrubHub
   - DoorDash
   - UberEats
   driveThru: true
+  giftCard: true
+  facebook: https://www.facebook.com/5-Spice-China-Grill-182145216046/
   info: Drive-thru or call ahead
 - name: Amycakes Bakery
-  website: https://amycakesbakery.com/collections&sa=D&ust=1585176272746000
+  website: https://amycakesbakery.com/collections
   phone: 417-831-6095
   delivery:
   - CarGO
   curbside: true
   onlineOrdering: true
+  twitter: https://twitter.com/amycakesbakery
+  facebook: https://www.facebook.com/Amycakesbakery/
+  instagram: https://www.instagram.com/amycakesbakery/
   info: Order online or call 
 - name: Antojos Tacos y Mas
-  website: https://www.facebook.com/Antojos-Tacos-y-Mas-1762664180422464/menu/&sa=D&ust=1585176272748000
+  website: https://www.facebook.com/Antojos-Tacos-y-Mas-1762664180422464/menu/
   phone: 417-755-7934
   delivery:
   - DoorDash
   - CarGo
+  facebook: https://www.facebook.com/Antojos-Tacos-y-Mas-1762664180422464/
   info: Daily specials
 - name: Archie’s Italian Eatery
-  website: https://archiesitalian.com/menu&sa=D&ust=1585176272750000
+  website: https://archiesitalian.com/menu
   phone: 417-720-1763
   delivery:
   - Restaurant
@@ -40,162 +46,192 @@
   - Postmates
   - DoorDash
   - CarGo
+  facebook: https://www.facebook.com/archiesitalian/
+  instagram: https://www.instagram.com/archiesitalian/
   curbside: true
   info: M-Sat 11-9 Free delivery
 - name: Architect Coffee
-  website: https://www.facebook.com/architectcoffeeco/menu/&sa=D&ust=1585176272752000
+  website: https://www.facebook.com/architectcoffeeco
   phone: 417-771-5030
   takeout: true
+  facebook: https://www.facebook.com/architectcoffeeco
+  instagram: https://www.instagram.com/architectcoffeeco/
   info: M-F 7-9 Sat 8-9, Coffee & burritos
 - name: Arris Pizza
-  website: http://annexandarris.com/cafe-menu/&sa=D&ust=1585176272754000
+  website: http://annexandarris.com
   phone: 417-881-7260
   curbside: true
   takeout: true
+  facebook: https://www.facebook.com/ArrisPizzaSpringfield/
   info: T-Sat BOGO half off
 - name: Asia Express
-  website: https://www.zmenu.com/asia-express-springfield-online-menu/&sa=D&ust=1585176272755000
+  website: https://www.zmenu.com/asia-express-springfield-online-menu/
   driveThru: true
   takeout: true
+  facetime: https://www.facebook.com/pages/Asia-Express/227132167408369
   info: Drive-thru or call
 - name: Aviary Cafe
-  website: https://l.facebook.com/l.php?u%3Dhttps%253A%252F%252Fbit.ly%252F2WE7T3l%253Ffbclid%253DIwAR1eiSgTu5xSZbgV5uqUYkxF8iXr1uXByEpmHBtyRvTrPXeDS1e7btD8t7E%26h%3DAT3bakUnItm79buLsMyyovaXJR-5HPnPSGJAgF1Vzfbjh523DTsfFBNirbqsJNazjge2W8pMxZPwP2LE4fSq17xWv7hx5N0hFg8jWr0BTMU0u2Kp-AtryEswTQ0HX55zATFl0D7l41QCqcxPXTrHM_sIfEuQvs4ymAfHh9nMPg34hDpxvGnED004G3uR4yW9uE6lKB_WL9viAbTua9N17-N2wJ_6nqcP59o1NW8L2BuKtAtgZ9d-GsJGo_qKJT0EwvPE-ZeYI9ro86mFv-n78pp0LsJJfbuRXFkKUpVpHM_pA_XTj7xywgSF44m77cJjDPLEPVnfN6lADY3oJAnACn0W9F3LgPvQUmuaCFjKJeoc8UPCIkW6JmxxbIj1OxK9D2-C8HWDbD7-renm7rUThnwaDcSWLyluJc3XIh20b0Zlm6_0jCTpFMPZOVXy_181expOe8ovz0EeYbj2ejSdz-X4i_Hl0r3V6hRV1_Xs8kJeEg8HEO_AZqNXL1OntcLINI7hUJNTbue95J-kfCp9oLuoH0oHIm11pTaWFh2OKIw_udgXvJk8R99z0I20teFDiwxGX2SYsWwXZKJHO6uqUtLQoeXAK1RRp3d1kX06LpLY7NsJROKhRFWu7JFpGIOi-EwlqlVpMSE4roG-jg&sa=D&ust=1585176272758000
+  website: https://www.aviarycafe.com/
   phone: 417-866-6378
   delivery:
   - Restaurant
   curbside: true
   takeout: true
   onlineOrdering: true
+  facebook: https://www.facebook.com/aviarycafe/
+  instagram: http://instagram.com/aviarycafe/
   info: Farmers Park food/bread, order online or call
 - name: B2 Cafe
-  website: https://go2b2.com/?fbclid%3DIwAR3m7d5Z7OGmSEYx1rIli_T38hd4Qtza_ycOvgy7fy3Bwp1UPG4sB8CdJiI&sa=D&ust=1585176272762000
+  website: https://go2b2.com
   phone: 417-883-5848
   delivery:
   - Restaurant
   curbside: true
+  facebook: https://www.facebook.com/B2CafeSpringfield
+  twitter: https://twitter.com/B2Cafe
+  instagram: https://www.instagram.com/b2cafesgf
   info: Coffee, food, desserts / Free delivery
 - name: Bair’s Sports Grill
-  website: http://bairsburgers.com/menu/&sa=D&ust=1585176272764000
+  website: http://bairsburgers.com/menu/
   phone: 417-368-5919
   delivery:
   - UberEats
   info: 2 locations / Kids free with adult meal
 - name: Bambino’s
-  website: https://bambinoscafe.com/bambinos-to-go-restaurant-delivery-springfield-missouri/&sa=D&ust=1585176272766000
+  website: https://bambinoscafe.com/bambinos-to-go-restaurant-delivery-springfield-missouri/
   delivery:
   - DoorDash
   - Restaurant
   curbside: true
   takeout: true
   onlineOrdering: true
+  facebook: https://www.facebook.com/bambinoscafe
+  twitter: https://twitter.com/BambinosCafe
+  instagram: http://instagram.com/bambinoscafe
   info: Free delivery. Two locations. Order online or call
 - name: Bawi Korean BBQ
-  website: https://www.bawikbbq.com/Eat&sa=D&ust=1585176272769000
+  website: https://www.bawikbbq.com/Eat
   phone: 417-886-2777
   delivery:
   - CarGo
   - GrubHub
   takeout: true
   onlineOrdering: true
+  facebook: https://facebook.com/bawikoreanbbq
+  twitter: https://twitter.com/bawikoreanbbq
+  instagram: https://www.instagram.com/bawikoreanbbq/
   info: 7 days - Promo = 50%OFF. Order online or call
 - name: Big Al's (Nixa)
-  website: https://www.facebook.com/bigalssubs/menu/&sa=D&ust=1585176272772000
+  website: https://www.facebook.com/bigalssubs/menu/
   phone: 417-494-5007
   delivery:
   - Restaurant
+  facebook: https://www.facebook.com/pg/bigalssubs/
   info: 2 locations / Free delivery Nixa & Ozark
 - name: Big Easy Grill
-  website: https://www.facebook.com/BigEasyGrillSpringfieldMO/photos/a.10152905488705732/10157041199140732/?type%3D3%26eid%3DARCs4o5XvRdPAzeP1Gsn9zeWazOKMXJ5LCSolYGBjUjhNZv_s5eo_aXBzPknXV1ZeUcne7OGmPzXTCrg%26__xts__%255B0%255D%3D68.ARAee6WlY-Y_8qQBUjtNG_RRb-pxnnWaM1546SDz32uoyd64r_Xshy1jyhgThJ2ZPNZaI0-VNrSMUOCzYQPTNan4PE7XJYB_uZYK5e48SS2VSKL7qFaG2mrJJVOJsJoguJ-2GynKNSK2qOn1aGnpA3mhzIDPjtj1ck7u93qFi-gr3skAmdZm-1OH3lOGm0LoCaF2762LTITYat2dN2mOSks2E7DKYcx2R6-2k3JNrS9J421LrX4aHJJBkludqHGM9e3CpD0qTqTnBkKITXUBWhCZb-riOWeyChmCXArklnWMFbu1JSdxbZ532T9ZsNQujbNxHwMIzztAuSiHrG-L%26__tn__%3DEEHH-R&sa=D&ust=1585176272774000
+  website: https://www.facebook.com/BigEasyGrillSpringfieldMO/photos/a.10152905488705732/10157041199140732/?type%3D3%26eid%3DARCs4o5XvRdPAzeP1Gsn9zeWazOKMXJ5LCSolYGBjUjhNZv_s5eo_aXBzPknXV1ZeUcne7OGmPzXTCrg%26__xts__%255B0%255D%3D68.ARAee6WlY-Y_8qQBUjtNG_RRb-pxnnWaM1546SDz32uoyd64r_Xshy1jyhgThJ2ZPNZaI0-VNrSMUOCzYQPTNan4PE7XJYB_uZYK5e48SS2VSKL7qFaG2mrJJVOJsJoguJ-2GynKNSK2qOn1aGnpA3mhzIDPjtj1ck7u93qFi-gr3skAmdZm-1OH3lOGm0LoCaF2762LTITYat2dN2mOSks2E7DKYcx2R6-2k3JNrS9J421LrX4aHJJBkludqHGM9e3CpD0qTqTnBkKITXUBWhCZb-riOWeyChmCXArklnWMFbu1JSdxbZ532T9ZsNQujbNxHwMIzztAuSiHrG-L%26__tn__%3DEEHH-R
   phone: 417-832-0040
   delivery:
   - CarGO
   curbside: true
   takeout: true
+  facebook: https://www.facebook.com/BigEasyGrillSpringfieldMO
 - name: Big Momma's Coffee
-  website: https://www.bigmommascoffee.com/menu/&sa=D&ust=1585176272776000
+  website: https://www.bigmommascoffee.com/menu/
   phone: 417-865-9911
   delivery:
   - Restaurant
   takeout: true
+  facebook: https://www.facebook.com/BigMommasCoffee/
+  twitter: https://twitter.com/bigmommascoffee
   info: 7 days
 - name: Big Whiskey’s
   phone: 417-862-2449
+  website: https://bigwhiskeys.com/
   delivery:
   - Restaurant
   - DoorDash
   curbside: true
   onlineOrdering: true
+  facebook: http://www.facebook.com/BigWhiskeys
+  twitter: http://www.twitter.com/bigwhiskeys
+  instagram: https://instagram.com/big.whiskeys
   info: Online order or call
 - name: Billiards of Springfield
-  website: https://billiardsofspringfield.weebly.com/menu.html&sa=D&ust=1585176272780000
+  website: https://billiardsofspringfield.weebly.com
   phone: 417-866-4319
   curbside: true
+  facebook: https://www.facebook.com/billiardsofspringfield/
   info: Lunch M-F 11-3
 - name: Black Market Smokehouse
-  website: https://www.blackmarket-smokehouse.com/menus/&sa=D&ust=1585176272783000
+  website: https://www.blackmarket-smokehouse.com/menus/
   phone: 417-831-5300
   delivery:
   - UberEats
   - Postmates
   - GrubHub
   takeout: true
+  facebook: https://www.facebook.com/blkmarket417
+  instagram: https://www.instagram.com/blkmarket417/
   info: Free brownies w/order, family packs available
 - name: Black Sheep ASAP
-  website: https://www.facebook.com/BSASAP/menu/&sa=D&ust=1585176272785000
+  website: https://www.blaaacksheep.com/
   delivery:
   - CarGO
   - GrubHub
   driveThru: true
+  facebook: https://www.facebook.com/pg/BSASAP
+  instagram: https://www.instagram.com/blacksheeprockandroll/
   info: 11-9 - Selling ground beef
 - name: Breadsmith
-  website: https://www.breadsmith.com/springfield/%23menu&sa=D&ust=1585176272787000
+  website: https://www.breadsmith.com/springfield
   phone: 417-890-0399
   curbside: true
   takeout: true
   info: Curbside is credit only
 - name: Brown Derby Deli
-  website: https://brownderby.com/derby-deli/&sa=D&ust=1585176272790000
+  website: https://brownderby.com/derby-deli/
   phone: 417-883-4066
   delivery:
   - DoorDash
   curbside: true
   info: Call in Tues-Sat 11-7
 - name: Bruno's Italian Restaurant
-  website: http://www.brunositalianrestaurantdowntown.com/Bruno_s_Italian_Cuisine.html&sa=D&ust=1585176272792000
+  website: http://www.brunositalianrestaurantdowntown.com/Bruno_s_Italian_Cuisine.html
   phone: 417-866-0007
   takeout: true
   info: M-Sat 4-9
 - name: Bubba’s BBQ
-  website: https://www.bubbasozarkbbq.com/menu&sa=D&ust=1585176272794000
+  website: https://www.bubbasozarkbbq.com/menu
   phone: 417-368-0039
   driveThru: true
   takeout: true
   info: 7 days - Drive-thru or call
 - name: Buckingham Smokehouse
-  website: http://www.buckinghambbq.com/barbecue-menu.html&sa=D&ust=1585176272796000
+  website: http://www.buckinghambbq.com/barbecue-menu.html
   phone: 417-886-9979
   driveThru: true
 - name: Cafe B-29 (Ozark)
-  website: https://www.facebook.com/cafeb29/menu/&sa=D&ust=1585176272798000
+  website: https://www.facebook.com/cafeb29/menu/
   phone: 417-485-7500
   delivery:
   - Restaurant
   curbside: true
   info: "Daily specials 11:30-7:30"
 - name: Cafe Basilico
-  website: https://www.facebook.com/CafeBasilicoSpringfield/app/160363220729661/&sa=D&ust=1585176272800000
+  website: https://www.facebook.com/CafeBasilicoSpringfield/app/160363220729661/
   phone: 417-818-4541
   takeout: true
   giftCard: true
   info: GC $25 for $20
 - name: Cafe Dhibs
-  website: https://www.cafedhibs.com/menu&sa=D&ust=1585176272803000
+  website: https://www.cafedhibs.com/menu
   curbside: true
   driveThru: true
   onlineOrdering: true
   info: Drive-thru or order online
 - name: Catrina's
-  website: https://orders.cake.net/11220752&sa=D&ust=1585176272805000
+  website: https://orders.cake.net/11220752
   phone: 417-350-1006
   delivery:
   - Restaurant
@@ -204,13 +240,13 @@
   giftCard: true
   info: $5 GC w/ order, online or call
 - name: Cashew Station
-  website: https://www.facebook.com/CashewStation/menu/&sa=D&ust=1585176272807000
+  website: https://www.facebook.com/CashewStation/menu/
   phone: 417-881-4900
   driveThru: true
   takeout: true
   info: Drive-thru, or call ahead
 - name: Cesar's Old Mexico
-  website: https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/89967941_2806572369397635_244679197316874240_n.jpg?_nc_cat%3D109%26_nc_sid%3D110474%26_nc_ohc%3Dj_DQfLhKoHIAX-rcJhI%26_nc_ht%3Dscontent-dfw5-1.xx%26oh%3D67501af64ac480b7be4f926b1e8940aa%26oe%3D5E9A1615&sa=D&ust=1585176272811000
+  website: https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/89967941_2806572369397635_244679197316874240_n.jpg?_nc_cat%3D109%26_nc_sid%3D110474%26_nc_ohc%3Dj_DQfLhKoHIAX-rcJhI%26_nc_ht%3Dscontent-dfw5-1.xx%26oh%3D67501af64ac480b7be4f926b1e8940aa%26oe%3D5E9A1615
   phone: 417-881-8252
   takeout: true
   info: M-Sat 3-8pm
@@ -219,7 +255,7 @@
   alcohol: true
   phone: 417-986-5800
 - name: Chicago Cheesesteak
-  website: https://www.chicagocheesesteak.com/menu&sa=D&ust=1585176272815000
+  website: https://www.chicagocheesesteak.com/menu
   delivery:
   - DoorDash
   - GrubHub
@@ -228,18 +264,18 @@
   takeout: true
   info: 11-2 & 5-8 W-Sat, Two locations
 - name: Chick-Fil-A (local franchisee)
-  website: https://www.chick-fil-a.com/orderfood&sa=D&ust=1585176272817000
+  website: https://www.chick-fil-a.com/orderfood
   delivery:
   - DoorDash
   driveThru: true
   onlineOrdering: true
   info: Order online and drive-thru
 - name: China Star
-  website: https://www.zomato.com/springfield-mo/china-star-1-springfield/menu&sa=D&ust=1585176272818000
+  website: https://www.zomato.com/springfield-mo/china-star-1-springfield/menu
   phone: 417-887-9779
   takeout: true
 - name: City Cafe
-  website: https://www.facebook.com/City-Cafe-418125692101465/menu/&sa=D&ust=1585176272821000
+  website: https://www.facebook.com/City-Cafe-418125692101465/menu/
   phone: 417-812-1609
   delivery:
   - UberEats
@@ -249,34 +285,34 @@
   takeout: true
   info: 10% off for truck drivers
 - name: Civil Kitchen
-  website: https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/90145699_2890444194384374_1859175292422062080_o.jpg?_nc_cat%3D106%26_nc_sid%3D2d5d41%26_nc_ohc%3DKtSGm3Yf0MwAX-8etxg%26_nc_ht%3Dscontent-ort2-2.xx%26oh%3D4dc66dc6788d92bde58f8c75c8caca14%26oe%3D5E994E97&sa=D&ust=1585176272823000
+  website: https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/90145699_2890444194384374_1859175292422062080_o.jpg?_nc_cat%3D106%26_nc_sid%3D2d5d41%26_nc_ohc%3DKtSGm3Yf0MwAX-8etxg%26_nc_ht%3Dscontent-ort2-2.xx%26oh%3D4dc66dc6788d92bde58f8c75c8caca14%26oe%3D5E994E97
   phone: 417-501-8456
   curbside: true
   takeout: true
   giftCard: true
   info: $5GC w/ $15, health/first responder special
 - name: Classic Rock
-  website: https://www.facebook.com/classicrockcoffee1900westsunset/menu/&sa=D&ust=1585176272825000
+  website: https://www.facebook.com/classicrockcoffee1900westsunset/menu/
   delivery:
   - GetFed (Republic location)
   curbside: true
   takeout: true
   info: 7 days / Order inside or call / two locations & food truck
 - name: Common Grounds Coffee (Strafford)
-  website: https://www.facebook.com/commongroundscoffeeandcafe/app/160363220729661/&sa=D&ust=1585176272827000
+  website: https://www.facebook.com/commongroundscoffeeandcafe/app/160363220729661/
   phone: 417-736-0035
   curbside: true
   takeout: true
   info: Order inside or call
 - name: Coyote’s Adobe
-  website: https://www.coyotes4wings.com/our-menu&sa=D&ust=1585176272829000
+  website: https://www.coyotes4wings.com/our-menu
   phone: 417-889-7120
   delivery:
   - CarGo
   driveThru: true
   info: 25%off carryout. call or drive-thru
 - name: Crosstown BBQ
-  website: http://www.crosstownbarbecue.com/menu.html&sa=D&ust=1585176272831000
+  website: http://www.crosstownbarbecue.com/menu.html
   phone: 417-862-4646
   takeout: true
 - name: Culver's (local franchisees)
@@ -284,7 +320,7 @@
   takeout: true
   info: Multiple locations
 - name: Craft Sushi
-  website: https://www.facebook.com/craftsushi/menu/&sa=D&ust=1585176272835000
+  website: https://www.facebook.com/craftsushi/menu/
   phone: 417-319-5887
   delivery:
   - DoorDash
@@ -295,11 +331,11 @@
   takeout: true
   phone: 417-883-5114
 - name: Dark Stone Coffee
-  website: http://www.darkstonecoffee.com/menu&sa=D&ust=1585176272840000
+  website: http://www.darkstonecoffee.com/menu
   driveThru: true
   info: 6-5 Mon-Sat
 - name: Doe's Eat Place
-  website: https://www.doesspringfield.com/take-out-menu&sa=D&ust=1585176272842000
+  website: https://www.doesspringfield.com/take-out-menu
   phone: 417-833-7818
   delivery:
   - DoorDash
@@ -315,7 +351,7 @@
   onlineOrdering: true
   info: Order online or call
 - name: Druff’s
-  website: https://l.facebook.com/l.php?u%3Dhttps%253A%252F%252Fsquareup.com%252Fstore%252Fdruffs%253Ffbclid%253DIwAR1CcuFzxrVPV9pKkD3JM2qQMovB94S3gXBizdsBp2DiC0CWzNm8Y_Ha4UI%26h%3DAT014lxxQKCK5huR3bD0WpvDxLQVQck6x-6HEp4Rxyj6dWz40IOnB0H0dMSxlK3MQiSwcwt3Wp3bfJOQPdEUhPpCvHzkQVlccX233e5c4rqJlavXbX-JhGK_-Ky46p2QbAK3tVwW9NmJWMt3EVu5YjYpAs9PUQnXQE-qhUyj9TkL6AJC2tzy3wA0uIXz42WwxDRXvaKU9RsQnzJIx4fKgqgcYXiDLdXuH_KDugM6RvEFZUUSnM63DAMXNsezjPk8hLwmEUi8LmNdZoRUDPGkmHGtjlTyeeqhOigOCbtt1Wph3aJtgwl3CpBNYexLYiFZUt2kF-z3lyzAiKkRBKWrPcwOil3maUza57I8zY0sx2RfymY9FhVCWlS-W7nQ3ikuOQYSoY4k_uoDsVi3DfsI5y4FBD6tkJ5ziL6rd7wNNh6KrL4kvmFTwWoCoc3O0CdIxlWi1uZxKJ38gkbWjqg8Ev53fCGLO7hA_bt5t4YcJ7xYNNQlv0TIntPxLc-huO6OdrN0L-drf66HKdtgDm25ceYMjHJdMnT0gzUQCg0LETFDVRUJO3eH02FSjDDs5YIrczLPCpeoe0KOSB-5N-I9FSsueXCpMU6oWdFQFIGdXE3bJF5QdaxyVqUDJFly9z0IuArSITC4GuN_lP1jw4botv34EDAa&sa=D&ust=1585176272848000
+  website: https://l.facebook.com/l.php?u%3Dhttps%253A%252F%252Fsquareup.com%252Fstore%252Fdruffs%253Ffbclid%253DIwAR1CcuFzxrVPV9pKkD3JM2qQMovB94S3gXBizdsBp2DiC0CWzNm8Y_Ha4UI%26h%3DAT014lxxQKCK5huR3bD0WpvDxLQVQck6x-6HEp4Rxyj6dWz40IOnB0H0dMSxlK3MQiSwcwt3Wp3bfJOQPdEUhPpCvHzkQVlccX233e5c4rqJlavXbX-JhGK_-Ky46p2QbAK3tVwW9NmJWMt3EVu5YjYpAs9PUQnXQE-qhUyj9TkL6AJC2tzy3wA0uIXz42WwxDRXvaKU9RsQnzJIx4fKgqgcYXiDLdXuH_KDugM6RvEFZUUSnM63DAMXNsezjPk8hLwmEUi8LmNdZoRUDPGkmHGtjlTyeeqhOigOCbtt1Wph3aJtgwl3CpBNYexLYiFZUt2kF-z3lyzAiKkRBKWrPcwOil3maUza57I8zY0sx2RfymY9FhVCWlS-W7nQ3ikuOQYSoY4k_uoDsVi3DfsI5y4FBD6tkJ5ziL6rd7wNNh6KrL4kvmFTwWoCoc3O0CdIxlWi1uZxKJ38gkbWjqg8Ev53fCGLO7hA_bt5t4YcJ7xYNNQlv0TIntPxLc-huO6OdrN0L-drf66HKdtgDm25ceYMjHJdMnT0gzUQCg0LETFDVRUJO3eH02FSjDDs5YIrczLPCpeoe0KOSB-5N-I9FSsueXCpMU6oWdFQFIGdXE3bJF5QdaxyVqUDJFly9z0IuArSITC4GuN_lP1jw4botv34EDAa
   phone: 417-719-1719
   delivery:
   - DoorDash
@@ -325,11 +361,11 @@
   onlineOrdering: true
   info: Order online or call
 - name: Dugout Bar & Grill
-  website: https://www.facebook.com/SpringfieldDugout/menu/&sa=D&ust=1585176272851000
+  website: https://www.facebook.com/SpringfieldDugout/menu/
   curbside: true
   phone: 417-866-2255
 - name: Eat Fit Go
-  website: https://eatfitgo.revelup.com/weborder/?establishment%3D13&sa=D&ust=1585176272853000
+  website: https://eatfitgo.revelup.com/weborder/?establishment%3D13
   delivery:
   - UberEats
   curbside: true
@@ -337,13 +373,13 @@
   onlineOrdering: true
   info: 15%off online orders
 - name: Edible Arrangements (local franchisee)
-  website: https://www.ediblearrangements.com/stores/1336-e-battlefield-st-springfield-mo-65804?fbclid%3DIwAR1IcjEUdy9JcTMiVIj74jluWYfDhKUuT4MANAGxYt223yBGQ03EOL6f98M&sa=D&ust=1585176272854000
+  website: https://www.ediblearrangements.com/stores/1336-e-battlefield-st-springfield-mo-65804?fbclid%3DIwAR1IcjEUdy9JcTMiVIj74jluWYfDhKUuT4MANAGxYt223yBGQ03EOL6f98M
   delivery:
   - Restaurant
   takeout: true
   info: Free local delivery
 - name: El Charro
-  website: https://www.facebook.com/ElCharroKansas/menu/&sa=D&ust=1585176272857000
+  website: https://www.facebook.com/ElCharroKansas/menu/
   phone: 417-886-1444
   delivery:
   - UberEats
@@ -351,12 +387,12 @@
   driveThru: true
   takeout: true
 - name: El Puente
-  website: https://www.zmenu.com/el-puente-mexican-springfield-online-menu/&sa=D&ust=1585176272859000
+  website: https://www.zmenu.com/el-puente-mexican-springfield-online-menu/
   phone: 417-883-4502
   curbside: true
   takeout: true
 - name: El Sombrero
-  website: https://www.facebook.com/elsombrerosgf/menu/&sa=D&ust=1585176272860000
+  website: https://www.facebook.com/elsombrerosgf/menu/
   phone: 417-887-8810
   delivery:
   - UberEats
@@ -364,39 +400,39 @@
   takeout: true
   info: 10%off
 - name: Eurasia
-  website: https://eurasiacoffee.com/shop/category/coffee/&sa=D&ust=1585176272862000
+  website: https://eurasiacoffee.com/shop/category/coffee/
   delivery:
   - Restaurant limited
   onlineOrdering: true
   info: Free delivery Tues & Fri order online
 - name: European Cafe
-  website: https://www.417europeancafe.com/online-ordering&sa=D&ust=1585176272864000
+  website: https://www.417europeancafe.com/online-ordering
   phone: 417-986-4646
   curbside: true
   onlineOrdering: true
   info: Order online
 - name: Everyday Thai
-  website: https://www.facebook.com/everydaythaillc/posts/897777600664791&sa=D&ust=1585176272865000
+  website: https://www.facebook.com/everydaythaillc/posts/897777600664791
   phone: 417-770-0147
   delivery:
   - Restaurant
   curbside: true
   info: $5 delivery
 - name: Farm Fresh Bakery Nixa
-  website: https://www.farmfreshbakery.com/menu&sa=D&ust=1585176272867000
+  website: https://www.farmfreshbakery.com/menu
   phone: 417-770-5910
   delivery:
   - Restaurant (Nixa)
   curbside: true
   info: Meal kits available, free bread loaf w/ take-out
 - name: Farmer's Gastropub
-  website: https://www.facebook.com/farmersgastropub/menu/&sa=D&ust=1585176272868000
+  website: https://www.facebook.com/farmersgastropub/menu/
   phone: 417-864-6994
   curbside: true
   takeout: true
   info: 11-5
 - name: Fire and Ice
-  website: https://www.fireandicerestaurant.com/temporary-take-out-menu&sa=D&ust=1585176272871000
+  website: https://www.fireandicerestaurant.com/temporary-take-out-menu
   phone: 417-522-7711
   delivery:
   - Restaurant
@@ -404,13 +440,13 @@
   takeout: true
   info: All day lunch menu
 - name: First Watch (local franchisees)
-  website: https://www.firstwatch.com/menu/&sa=D&ust=1585176272873000
+  website: https://www.firstwatch.com/menu/
   phone: 417-633-7094
   delivery:
   - Restaurant
   curbside: true
 - name: Fuji Japanese Steakhouse
-  website: https://l.facebook.com/l.php?u%3Dhttps%253A%252F%252Ffujiofspringfield.com%252Fto-go%253Ffbclid%253DIwAR3IJM4Od-s7NtHY6b7FSLYumm__a0MwMVpOMlBg-YR5JEbqxXixpny5zvA%26h%3DAT18HrJaXv6GapojchZAYlUfIzvw66-jifBb93_d-StumqOO6cocfuPJYtUIzuKCK2MEXi72jlh-1KWThFOtdgX-3n5YPRfWOP3iAt_ry0nuq4OIVb_MgmKTyDLnxwiiUcuZ-Wv4uYu5B0Ah8sjYIJzUOh9FKXlAylVCEL5pPfKIJNoltK0KNac4VdGNL_S3lPuGBDPT3j7XpG1XLg5wQDOLHKOy5U4uosevWI5FTH2904LzNwgLN4OxOglajYkOW10yjSBS_HDl7BATG9Et1fINgpqeAgfGWlZMUHUlabEzHsKFv4-19I6DvIo4onTc_3KRNp5App8-Tra72jGcOb0SnXBvibyMDr9aHx33W4BfVrkwR-dGDjNJz6WPFBtY1ucLJ3M9UVDGP-KgfDEIDs6Njs1efcjdHrLNtwTFcbbhzx0WMs6NueS3aGPS8S5sTS8tAOhtHnM8_NPTq2ShecOfKC-l4ILn3qY3rbqfc-iBHqrh0jo7NdvHRyufORMX0HibRWvSEo5QNzJBEmh6MGnzeR-Eewcu0QvcGrp0QsJtUJCtQJH8BD8OD9sVgV0GbMFSuUYEiBaqIqJ9aiwQU4kMmUuguF8GKvLYafWgzYQ1EqU6HU948CxA343hX2NzmNml0vyG&sa=D&ust=1585176272875000
+  website: https://l.facebook.com/l.php?u%3Dhttps%253A%252F%252Ffujiofspringfield.com%252Fto-go%253Ffbclid%253DIwAR3IJM4Od-s7NtHY6b7FSLYumm__a0MwMVpOMlBg-YR5JEbqxXixpny5zvA%26h%3DAT18HrJaXv6GapojchZAYlUfIzvw66-jifBb93_d-StumqOO6cocfuPJYtUIzuKCK2MEXi72jlh-1KWThFOtdgX-3n5YPRfWOP3iAt_ry0nuq4OIVb_MgmKTyDLnxwiiUcuZ-Wv4uYu5B0Ah8sjYIJzUOh9FKXlAylVCEL5pPfKIJNoltK0KNac4VdGNL_S3lPuGBDPT3j7XpG1XLg5wQDOLHKOy5U4uosevWI5FTH2904LzNwgLN4OxOglajYkOW10yjSBS_HDl7BATG9Et1fINgpqeAgfGWlZMUHUlabEzHsKFv4-19I6DvIo4onTc_3KRNp5App8-Tra72jGcOb0SnXBvibyMDr9aHx33W4BfVrkwR-dGDjNJz6WPFBtY1ucLJ3M9UVDGP-KgfDEIDs6Njs1efcjdHrLNtwTFcbbhzx0WMs6NueS3aGPS8S5sTS8tAOhtHnM8_NPTq2ShecOfKC-l4ILn3qY3rbqfc-iBHqrh0jo7NdvHRyufORMX0HibRWvSEo5QNzJBEmh6MGnzeR-Eewcu0QvcGrp0QsJtUJCtQJH8BD8OD9sVgV0GbMFSuUYEiBaqIqJ9aiwQU4kMmUuguF8GKvLYafWgzYQ1EqU6HU948CxA343hX2NzmNml0vyG
   phone: 417-889-0088
   delivery:
   - DoorDash
@@ -419,29 +455,29 @@
   takeout: true
   info: Early bird special all day
 - name: Galloway Station
-  website: https://lookaside.fbsbx.com/file/MENU%2520Oct%25202014.pdf?token%3DAWySmMOihUHWf1sSf_zyLXKeyDRS2t-xCNaRdLgH8cFNc72Wvov1_mhpTkeZsfwHJwhIUgHi-mP7R0vS2ZlGiU5PvjU5s_QT0cQf5dWZctdS5sUHIRHP5gWCVFMbYepL8B-Pl8Qj3vSENNCZzNKUPM0S699ah9SwhYYAe4SofTHZdg&sa=D&ust=1585176272880000
+  website: https://lookaside.fbsbx.com/file/MENU%2520Oct%25202014.pdf?token%3DAWySmMOihUHWf1sSf_zyLXKeyDRS2t-xCNaRdLgH8cFNc72Wvov1_mhpTkeZsfwHJwhIUgHi-mP7R0vS2ZlGiU5PvjU5s_QT0cQf5dWZctdS5sUHIRHP5gWCVFMbYepL8B-Pl8Qj3vSENNCZzNKUPM0S699ah9SwhYYAe4SofTHZdg
   phone: 417-881-9730
   delivery:
   - DoorDash
   curbside: true
   info: Free soda w/ meal
 - name: George’s Family Restaurant
-  website: https://www.facebook.com/Georges-Family-Restaurant-133384613354435/menu/&sa=D&ust=1585176272882000
+  website: https://www.facebook.com/Georges-Family-Restaurant-133384613354435/menu/
   phone: 417-831-6777
   curbside: true
   takeout: true
 - name: Georgia Mac’s
-  website: http://georgiamacs.com/menu/&sa=D&ust=1585176272883000
+  website: http://georgiamacs.com/menu/
   phone: 417-319-5770
   curbside: true
 - name: Gilardi's
-  website: http://gilardisonwalnut.com/gilardis-menu&sa=D&ust=1585176272886000
+  website: http://gilardisonwalnut.com/gilardis-menu
   phone: 417-862-6400
   curbside: true
   giftCard: true
   info: Take-out, in-home, 20% off GC
 - name: Grad School
-  website: https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-9/89702176_10158676883947590_1664021938520981504_n.jpg?_nc_cat%3D102%26_nc_sid%3D110474%26_nc_ohc%3Dz5LCrbgNmwUAX8CVboi%26_nc_ht%3Dscontent-dfw5-2.xx%26oh%3Dbdb7a4c268cfbc6639c3b53ea850170f%26oe%3D5E9A0DCC&sa=D&ust=1585176272887000
+  website: https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-9/89702176_10158676883947590_1664021938520981504_n.jpg?_nc_cat%3D102%26_nc_sid%3D110474%26_nc_ohc%3Dz5LCrbgNmwUAX8CVboi%26_nc_ht%3Dscontent-dfw5-2.xx%26oh%3Dbdb7a4c268cfbc6639c3b53ea850170f%26oe%3D5E9A0DCC
   phone: 417-866-8163
   delivery:
   - DoorDash
@@ -449,21 +485,21 @@
   takeout: true
   info: Order inside or call
 - name: Great American Taco Company
-  website: https://www.facebook.com/greatamericantaco/app/160363220729661/&sa=D&ust=1585176272889000
+  website: https://www.facebook.com/greatamericantaco/app/160363220729661/
   delivery:
   - Restaurant
   driveThru: true
   onlineOrdering: true
   info: Order online, drive-thru
 - name: Great Escape Beer
-  website: https://www.greatescapebeerworks.com/beer-menu&sa=D&ust=1585176272892000
+  website: https://www.greatescapebeerworks.com/beer-menu
   phone: 417-824-4043
   curbside: true
   takeout: true
   alcohol: true
   info: Crowlers/growlers, Donating to relief
 - name: Greek Belly
-  website: https://www.greekbelly.com/s/order&sa=D&ust=1585176272894000
+  website: https://www.greekbelly.com/s/order
   phone: 417-597-3382
   delivery:
   - UberEats
@@ -480,17 +516,17 @@
   onlineOrdering: true
   info: Multiple locations Order online or call
 - name: Golden Cuisine
-  website: https://www.facebook.com/2445553385497417/photos/a.2454429847943104/2454940364558719/?type%3D3%26theater&sa=D&ust=1585176272899000
+  website: https://www.facebook.com/2445553385497417/photos/a.2454429847943104/2454940364558719/?type%3D3%26theater
   driveThru: true
   info: "10:30-9:30 drive-thru"
 - name: Golden Girl Rum Club
-  website: https://l.facebook.com/l.php?u%3Dhttp%253A%252F%252Fwww.thegoldengirl.com%252Ftogo%253Ffbclid%253DIwAR2j00MgTizKTT1QVbrc1VZEOI4s9qwnksmsQy7HNE8XJs-XK_SvkHe_Ls8%26h%3DAT1H8582HSEN1ZwtgUM7zXZHDbPe7zIomqpwKxvlgoTTBfm_3U0XKIG7dIlWHyAo0GHRgdBueO0I0IOYIx9JIDtbpHu-67_attuv8FX2dovpfarsnWDGPsggI_n1eRul_2b51HSdBPzNJJrOloXzSydek3dKvnPN7g4jTkj0etY2M6jsoGfL51o7AKOmDTvFl08VK-Xnp-cNB7LGSNsoXVqVKJL28bbCHCSCiEJdJ2el1f4egofV8S3dRNhpwXKF6yVn78xsQcnS776YV-H4-C-rL4Xh7phy3ChkyL1VAqbzPhpUT9Svn-2e_4tB9e2aY2LgOX4S5pC-RL0a7hYnwPJzSEvN0vMVZ9hWEURrpBMCbrJdg-SCNByFpjjY02AfavwXffCtGxZNVodKZBXJYJv1grd4LhjM1IYeacZ6wuB1f0Z9Oef4v3i88Kk-mmUJtNv1ZAiGkuzxtfUHezoZmDJ2h1B7TeEUJM-0fuwtg1UVsfJ76vYl2JJ66c0VgY95Ih6olKiLlVnZX10J0eusB74SiPdAzKt2FeNrJzhxfBxrUPIKFb57Pz9WrWvy3zlHQsrwv6FXvOGi1MFtgF5LYbRTZMhYqdOFdNwKkuSusiBiuIsVyKqog_X16eOgT_iyCmJEQ73-wzDia1wW6UT25NoudO1OCbsZnun_OAN1qgWmVn4-mhBj3tfjMtyC03Oc2kNVLNEf0StHG8AYIuortPEwvy55xbGCNk3eEgs16aTtEYYw9Lei7rCUaSkoaJPkJfkp&sa=D&ust=1585176272901000
+  website: https://l.facebook.com/l.php?u%3Dhttp%253A%252F%252Fwww.thegoldengirl.com%252Ftogo%253Ffbclid%253DIwAR2j00MgTizKTT1QVbrc1VZEOI4s9qwnksmsQy7HNE8XJs-XK_SvkHe_Ls8%26h%3DAT1H8582HSEN1ZwtgUM7zXZHDbPe7zIomqpwKxvlgoTTBfm_3U0XKIG7dIlWHyAo0GHRgdBueO0I0IOYIx9JIDtbpHu-67_attuv8FX2dovpfarsnWDGPsggI_n1eRul_2b51HSdBPzNJJrOloXzSydek3dKvnPN7g4jTkj0etY2M6jsoGfL51o7AKOmDTvFl08VK-Xnp-cNB7LGSNsoXVqVKJL28bbCHCSCiEJdJ2el1f4egofV8S3dRNhpwXKF6yVn78xsQcnS776YV-H4-C-rL4Xh7phy3ChkyL1VAqbzPhpUT9Svn-2e_4tB9e2aY2LgOX4S5pC-RL0a7hYnwPJzSEvN0vMVZ9hWEURrpBMCbrJdg-SCNByFpjjY02AfavwXffCtGxZNVodKZBXJYJv1grd4LhjM1IYeacZ6wuB1f0Z9Oef4v3i88Kk-mmUJtNv1ZAiGkuzxtfUHezoZmDJ2h1B7TeEUJM-0fuwtg1UVsfJ76vYl2JJ66c0VgY95Ih6olKiLlVnZX10J0eusB74SiPdAzKt2FeNrJzhxfBxrUPIKFb57Pz9WrWvy3zlHQsrwv6FXvOGi1MFtgF5LYbRTZMhYqdOFdNwKkuSusiBiuIsVyKqog_X16eOgT_iyCmJEQ73-wzDia1wW6UT25NoudO1OCbsZnun_OAN1qgWmVn4-mhBj3tfjMtyC03Oc2kNVLNEf0StHG8AYIuortPEwvy55xbGCNk3eEgs16aTtEYYw9Lei7rCUaSkoaJPkJfkp
   phone: 417-425-5162
   takeout: true
   alcohol: true
   info: 5-9 Food & drink kits
 - name: Goodcents (local franchisees)
-  website: https://goodcentssubs.com/goodcents-menu/&sa=D&ust=1585176272903000
+  website: https://goodcentssubs.com/goodcents-menu/
   delivery:
   - Restaurant
   curbside: true
@@ -498,19 +534,19 @@
   onlineOrdering: true
   info: Multiple locations, free delivery, order online/call
 - name: Harbell's
-  website: https://www.facebook.com/Harbells/menu/&sa=D&ust=1585176272905000
+  website: https://www.facebook.com/Harbells/menu/
   phone: 417-862-0477
   curbside: true
   takeout: true
   info: 25% off
 - name: Hard Knox BBQ
-  website: https://www.toasttab.com/hard-knox-bbq-ilzln/v2/online-order%23!/&sa=D&ust=1585176272908000
+  website: https://www.toasttab.com/hard-knox-bbq-ilzln/v2/online-order%23!/
   phone: 417-720-4811
   takeout: true
   onlineOrdering: true
   info: Online order or call
 - name: Haruno
-  website: https://www.harunosushi.com/menu&sa=D&ust=1585176272910000
+  website: https://www.harunosushi.com/menu
   phone: 417-887-0077
   takeout: true
   info: 10%off, HH/late specials
@@ -520,11 +556,11 @@
   - Restaurant
   info: Personalized meals, $5 delivery
 - name: Hilltop Pizza (Fair Grove)
-  website: https://www.hilltoppizzagrill.com/menu&sa=D&ust=1585176272914000
+  website: https://www.hilltoppizzagrill.com/menu
   phone: 417-759-7794
   curbside: true
 - name: Hinode
-  website: https://www.facebook.com/eathinode/menu/&sa=D&ust=1585176272916000
+  website: https://www.facebook.com/eathinode/menu/
   phone: 417-877-1777
   delivery:
   - CarGO
@@ -532,18 +568,18 @@
   takeout: true
   info: 40% off, SGF open M/W Nixa T/Th
 - name: Hold Fast Brewing
-  website: https://www.hfbrewing.com/beers&sa=D&ust=1585176272918000
+  website: https://www.hfbrewing.com/beers
   phone: 417-761-2318
   curbside: true
   driveThru: true
   alcohol: true
   info: Crowlers
 - name: Hong Kong Inn
-  website: https://www.allmenus.com/mo/springfield/52106-hong-kong-inn/menu/&sa=D&ust=1585176272920000
+  website: https://www.allmenus.com/mo/springfield/52106-hong-kong-inn/menu/
   driveThru: true
   info: Two locations
 - name: Houlihan's (local franchisee)
-  website: https://www.facebook.com/pg/Houlihans.SpringfieldMO.South/menu/?ref%3Dpage_internal&sa=D&ust=1585176272922000
+  website: https://www.facebook.com/pg/Houlihans.SpringfieldMO.South/menu/?ref%3Dpage_internal
   delivery:
   - Soon CarGO
   - DoorDash
@@ -551,13 +587,13 @@
   takeout: true
   info: Two locations
 - name: Hu Hot (local franchisee)
-  website: https://pnicug7ne42wgqzj1vbyjy1a-wpengine.netdna-ssl.com/wp-content/uploads/springfieldMO.pdf&sa=D&ust=1585176272924000
+  website: https://pnicug7ne42wgqzj1vbyjy1a-wpengine.netdna-ssl.com/wp-content/uploads/springfieldMO.pdf
   phone: 417-882-0300
   delivery:
   - UberEats
   info: Free kids meal w/entree
 - name: Hurts Donuts
-  website: https://www.wannahurts.com/donuts&sa=D&ust=1585176272926000
+  website: https://www.wannahurts.com/donuts
   delivery:
   - Restaurant
   - DoorDash
@@ -567,7 +603,7 @@
   takeout: true
   info: Curbside at E Republic, carry-out downtown
 - name: Iguana Roja (Ozark)
-  website: https://www.iguanaroja.net/?fbclid%3DIwAR0J8vBSsWMJpbhe5Kt8yU_-IvfVf2kZSDJlljKOEb7IqCpokiUEQ6j66zc&sa=D&ust=1585176272929000
+  website: https://www.iguanaroja.net/?fbclid%3DIwAR0J8vBSsWMJpbhe5Kt8yU_-IvfVf2kZSDJlljKOEb7IqCpokiUEQ6j66zc
   phone: 417-485-8585
   delivery:
   - Restaurant
@@ -576,11 +612,11 @@
   takeout: true
   info: Care packs for hospitality workers
 - name: I Love Tacos Taqueria
-  website: https://www.facebook.com/ILoveTacosTaqueriaSpringfield/photos/a.882877591814077/2320746638027158/?type%3D3%26theater&sa=D&ust=1585176272931000
+  website: https://www.facebook.com/ILoveTacosTaqueriaSpringfield/photos/a.882877591814077/2320746638027158/?type%3D3%26theater
   phone: 417-489-0076
   takeout: true
 - name: Infused Catering
-  website: https://infused-catering.com/menu/&sa=D&ust=1585176272933000
+  website: https://infused-catering.com/menu/
   phone: 417-883-8368
   delivery:
   - Restaurant
@@ -589,7 +625,7 @@
   takeout: true
   phone: 417-865-0366
 - name: J. Parrino’s Queen City Deli
-  website: https://www.queencitydeli.com/our-menu&sa=D&ust=1585176272936000
+  website: https://www.queencitydeli.com/our-menu
   phone: 417-887-1778
   delivery:
   - CarGo
@@ -597,14 +633,14 @@
   - GrubHub
   takeout: true
 - name: Jade East Inc
-  website: https://www.allmenus.com/mo/springfield/52117-jade-east/menu/&sa=D&ust=1585176272938000
+  website: https://www.allmenus.com/mo/springfield/52117-jade-east/menu/
   delivery:
   - GrubHub
   - DoorDash
   - Postmates
   driveThru: true
 - name: Jamaican Patty Co
-  website: https://www.jamaicanpattyco.com/menu/&sa=D&ust=1585176272940000
+  website: https://www.jamaicanpattyco.com/menu/
   phone: 417-886-1144
   delivery:
   - DoorDash
@@ -613,14 +649,14 @@
   - GrubHub
   takeout: true
 - name: Jimm's Steakhouse
-  website: https://jimmssteakhouseandpub.com/&sa=D&ust=1585176272942000
+  website: https://jimmssteakhouseandpub.com/
   phone: 417-886-5466
   curbside: true
   takeout: true
   giftCard: true
   info: $10GC & $5 donated w/$50 order
 - name: Jimmy John's (local franchisee)
-  website: https://www.jimmyjohns.com/menu/%23/&sa=D&ust=1585176272944000
+  website: https://www.jimmyjohns.com/menu/%23/
   delivery:
   - Restaurant
   driveThru: true
@@ -628,11 +664,11 @@
   onlineOrdering: true
   info: Multiple locations. Order online or in store
 - name: Jose Locos
-  website: https://www.facebook.com/Joselocos2/posts/2459153534395676&sa=D&ust=1585176272946000
+  website: https://www.facebook.com/Joselocos2/posts/2459153534395676
   takeout: true
   info: Two locations
 - name: Just One More (Republic)
-  website: https://www.facebook.com/JustOneMoreRepublic/posts/10156869321715685&sa=D&ust=1585176272948000
+  website: https://www.facebook.com/JustOneMoreRepublic/posts/10156869321715685
   phone: 417-647-2337
   delivery:
   - Restaurant
@@ -640,18 +676,18 @@
   alcohol: true
   info: Food & alcohol
 - name: Kai After Dark
-  website: https://www.kaiafterdark.com/main-dining&sa=D&ust=1585176272950000
+  website: https://www.kaiafterdark.com/main-dining
   phone: 417-832-0077
   curbside: true
   takeout: true
   info: 10%off, HH & late specials
 - name: Kearney Street Cafe
-  website: https://www.facebook.com/kearneystreetcafe/menu/&sa=D&ust=1585176272951000
+  website: https://www.facebook.com/kearneystreetcafe/menu/
   phone: 417-987-0937
   curbside: true
   info: 8-2
 - name: King’s Asian Chef
-  website: https://www.kingsasianchefsgf.com/%23/&sa=D&ust=1585176272953000
+  website: https://www.kingsasianchefsgf.com/%23/
   phone: 417-866-5527
   delivery:
   - Restaurant
@@ -665,20 +701,20 @@
   onlineOrdering: true
   info: Ready to eat & kits Order online or call
 - name: Kingdom Coffee
-  website: https://www.kingdomsgf.com/menu/&sa=D&ust=1585176272956000
+  website: https://www.kingdomsgf.com/menu/
   phone: 417-350-1234
   curbside: true
   onlineOrdering: true
   info: Order online or call
 - name: Koriya
-  website: https://www.facebook.com/Koriya0077/photos/a.513543578693679/986746011373431/?type%3D3%26theater&sa=D&ust=1585176272958000
+  website: https://www.facebook.com/Koriya0077/photos/a.513543578693679/986746011373431/?type%3D3%26theater
   phone: 417-882-0077
   delivery:
   - DoorDash
   takeout: true
   info: Free delivery w/$50
 - name: Krispy Kreme (local franchisee)
-  website: https://www.krispykreme.com/menu/doughnuts&sa=D&ust=1585176272961000
+  website: https://www.krispykreme.com/menu/doughnuts
   delivery:
   - DoorDash
   - Restaurant
@@ -687,7 +723,7 @@
   onlineOrdering: true
   info: Order online or drive-thru
 - name: La Boba Cafe
-  website: https://www.grubhub.com/restaurant/la-boba-cafe-1601-w-sunshine-st-ste-d-springfield/698371&sa=D&ust=1585176272963000
+  website: https://www.grubhub.com/restaurant/la-boba-cafe-1601-w-sunshine-st-ste-d-springfield/698371
   phone: 417-720-1328
   delivery:
   - CarGo
@@ -697,7 +733,7 @@
   takeout: true
   info: Free delivery $20+
 - name: La Hacienda
-  website: https://www.krispykreme.com/menu/doughnuts&sa=D&ust=1585176272965000
+  website: https://www.krispykreme.com/menu/doughnuts
   phone: 417-887-3733
   delivery:
   - UberEats
@@ -705,20 +741,20 @@
   curbside: true
   info: Free delivery $20+
 - name: La Paloma
-  website: https://www.dinelapaloma.com/dinner-menu&sa=D&ust=1585176272967000
+  website: https://www.dinelapaloma.com/dinner-menu
   phone: 417-719-4484
   delivery:
   - Restaurant
   takeout: true
   info: Two locations, free delivery
 - name: Leong’s Asian Diner
-  website: http://www.leongsasiandiner.com/dinner/&sa=D&ust=1585176272969000
+  website: http://www.leongsasiandiner.com/dinner/
   phone: 417-887-7500
   curbside: true
   onlineOrdering: true
   info: Order online or call
 - name: Lindberg’s Tavern
-  website: https://www.facebook.com/lindbergs/menu/&sa=D&ust=1585176272971000
+  website: https://www.facebook.com/lindbergs/menu/
   phone: 417-868-8900
   curbside: true
   info: 50%off for musicians/food service
@@ -729,7 +765,7 @@
   onlineOrdering: true
   info: Multiple locations. Order online or in store
 - name: London Calling
-  website: https://www.londoncallingpastycompany.com/?fbclid%3DIwAR0t_kcw8qCiLAccYCNBNbu46m8JyxSYUaU26sEfQgLPZppKul-BmwWHksw&sa=D&ust=1585176272975000
+  website: https://www.londoncallingpastycompany.com/?fbclid%3DIwAR0t_kcw8qCiLAccYCNBNbu46m8JyxSYUaU26sEfQgLPZppKul-BmwWHksw
   delivery:
   - UberEats
   - Restaurant
@@ -737,14 +773,14 @@
   onlineOrdering: true
   info: Free delivery & gift w/$50, Order online
 - name: Los Cabos
-  website: http://loscabosok.com/missouri-menu/&sa=D&ust=1585176272977000
+  website: http://loscabosok.com/missouri-menu/
   phone: 417-823-9114
   delivery:
   - DoorDash
   curbside: true
   takeout: true
 - name: Luco's Pizza
-  website: https://www.facebook.com/lucospizzaspringfield/menu/&sa=D&ust=1585176272979000
+  website: https://www.facebook.com/lucospizzaspringfield/menu/
   phone: 417-315-8586
   delivery:
   - GrubHub
@@ -755,12 +791,12 @@
   alcohol: true
   info: 3-7 W-Sat Growlers/cans
 - name: Lucy’s Chinese
-  website: https://lucyschinesefood.com/lucys-menu/&sa=D&ust=1585176272983000
+  website: https://lucyschinesefood.com/lucys-menu/
   driveThru: true
   onlineOrdering: true
   info: Multiple locations, order online, or call ahead
 - name: Macadoodles
-  website: https://macadoodles.com/locations/&sa=D&ust=1585176272986000
+  website: https://macadoodles.com/locations/
   phone: 417-883-9000
   delivery:
   - Delivering
@@ -777,23 +813,23 @@
   curbside: true
   phone: 417-672-2200
 - name: Maso Pizza Bar
-  website: https://www.facebook.com/masopizzabar/photos/a.739451436205461/1095338740616727/?type%3D1%26theater&sa=D&ust=1585176272991000
+  website: https://www.facebook.com/masopizzabar/photos/a.739451436205461/1095338740616727/?type%3D1%26theater
   phone: 417-827-8000
   takeout: true
   info: Call or text
 - name: McSalty's
-  website: http://www.mcsaltysbattlefield.com/Menu.html&sa=D&ust=1585176272993000
+  website: http://www.mcsaltysbattlefield.com/Menu.html
   phone: 417-883-4324
   delivery:
   - Restaurant
   takeout: true
 - name: Meals by Monica
-  website: https://www.facebook.com/Meals-by-Monica-147344191950554/app/100265896690345/&sa=D&ust=1585176272995000
+  website: https://www.facebook.com/Meals-by-Monica-147344191950554/app/100265896690345/
   phone: 417-773-0726
   delivery:
   - Restaurant
 - name: Metropolitan Grill
-  website: https://www.facebook.com/metropolitan.grill/posts/10163825913925455&sa=D&ust=1585176272997000
+  website: https://www.facebook.com/metropolitan.grill/posts/10163825913925455
   phone: 417-889-4951
   delivery:
   - Restaurant
@@ -801,12 +837,12 @@
   takeout: true
   info: Order deliveries by 6pm or call ahead
 - name: Mexican Villa
-  website: https://www.mexicanvilla.net/full-service&sa=D&ust=1585176273000000
+  website: https://www.mexicanvilla.net/full-service
   phone: 417-869-4459
   takeout: true
   info: Multiple locations
 - name: Moe's Southwest (local franchisee)
-  website: https://order.moes.com/menu/6090?_ga%3D2.4881719.583308220.1584759842-1333134435.1584759842&sa=D&ust=1585176273002000
+  website: https://order.moes.com/menu/6090?_ga%3D2.4881719.583308220.1584759842-1333134435.1584759842
   delivery:
   - UberEats
   - DoorDash
@@ -814,7 +850,7 @@
   onlineOrdering: true
   info: Order online
 - name: Momma Mary's Navajo Tacos (Willard)
-  website: https://www.facebook.com/MMNavajotacos/photos/a.3791858474173378/4170712669621288/?type%3D3%26theater&sa=D&ust=1585176273005000
+  website: https://www.facebook.com/MMNavajotacos/photos/a.3791858474173378/4170712669621288/?type%3D3%26theater
   phone: 417-685-3453
   delivery:
   - Restaurant
@@ -822,14 +858,14 @@
   takeout: true
   info: Free delivery in Willard
 - name: Morning Day Cafe (Nixa)
-  website: https://www.facebook.com/MDCNixa/menu/&sa=D&ust=1585176273007000
+  website: https://www.facebook.com/MDCNixa/menu/
   phone: 417-494-5055
   curbside: true
   takeout: true
   onlineOrdering: true
   info: Order online or call
 - name: Mother's Brewing Company
-  website: http://motherstogo.square.site/&sa=D&ust=1585176273010000
+  website: http://motherstogo.square.site/
   phone: 417-862-0423
   delivery:
   - CarGO
@@ -839,7 +875,7 @@
   alcohol: true
   info: Order online or call
 - name: Mudhouse
-  website: https://l.facebook.com/l.php?u%3Dhttp%253A%252F%252Fmud2go.com%252F%253Ffbclid%253DIwAR0jSj3rtgw07IKjnmpLTaZReQwU3a66RrQKeBjlqA2fuWmwyp_PLpmgdno%26h%3DAT0gf1YwXR_gJ6J7ztYOwv0uee8p1ennEuUVKJuRwjmhTqJ4RMmsVxGCln5DcCxAJkzdx6cCmbwo2SKC5bIaN_-cJvE8cybg69EDWQXcdF1zi7uzXpVyKvgrvmGG9H37NBJSEY6XlBarlUWPRAh97yPJrkRmrppWdheqrgo2pMAUiuRUQ2SgS4wUPuBLLiDwSSST7kokkvoq9312Ydq0ZeryBD4E34Vu52Miwf5uWM5xAF-qMLSE8BGVr7Q9QYZ1VPz0mrcm8U8GMd5rh2BJKdOjxMcm4DExIARUvZoHoWsSnQYmgLFl71S6n7yIZq18TCbTVLVog0LOlqblv7NGQPjIgWZB1wDyTLdiC0jOCtIWAEWat5hOEcBQC5S0zjkItLInDKG32w-XbRvJ2F8xB1sy1lh0-_ylsDJgLbJmNPpnxTUuvPysiveVi9AAuRZe6lzeydQ_Ox4bS5k9f8Z-ZuBoRDVelsH_HSOx_NME5RE5kGFV7Z4W4jLleCBml9PvFbztRV-dCda7IoymtBAomzHHMFImYgTokogEBe1LjdKwxl8cbMJI6c5YuJ0pLKTPWkI9hZeyBd12pd0MZ6D1SYcyFQWscXlVc952FN8t6B5wbphFvkrNXMbdlh0O57fatS6P7KmvS7prfkDUuzCwXso28Nl53-QBDNPm0-u8rrUdmw&sa=D&ust=1585176273013000
+  website: https://l.facebook.com/l.php?u%3Dhttp%253A%252F%252Fmud2go.com%252F%253Ffbclid%253DIwAR0jSj3rtgw07IKjnmpLTaZReQwU3a66RrQKeBjlqA2fuWmwyp_PLpmgdno%26h%3DAT0gf1YwXR_gJ6J7ztYOwv0uee8p1ennEuUVKJuRwjmhTqJ4RMmsVxGCln5DcCxAJkzdx6cCmbwo2SKC5bIaN_-cJvE8cybg69EDWQXcdF1zi7uzXpVyKvgrvmGG9H37NBJSEY6XlBarlUWPRAh97yPJrkRmrppWdheqrgo2pMAUiuRUQ2SgS4wUPuBLLiDwSSST7kokkvoq9312Ydq0ZeryBD4E34Vu52Miwf5uWM5xAF-qMLSE8BGVr7Q9QYZ1VPz0mrcm8U8GMd5rh2BJKdOjxMcm4DExIARUvZoHoWsSnQYmgLFl71S6n7yIZq18TCbTVLVog0LOlqblv7NGQPjIgWZB1wDyTLdiC0jOCtIWAEWat5hOEcBQC5S0zjkItLInDKG32w-XbRvJ2F8xB1sy1lh0-_ylsDJgLbJmNPpnxTUuvPysiveVi9AAuRZe6lzeydQ_Ox4bS5k9f8Z-ZuBoRDVelsH_HSOx_NME5RE5kGFV7Z4W4jLleCBml9PvFbztRV-dCda7IoymtBAomzHHMFImYgTokogEBe1LjdKwxl8cbMJI6c5YuJ0pLKTPWkI9hZeyBd12pd0MZ6D1SYcyFQWscXlVc952FN8t6B5wbphFvkrNXMbdlh0O57fatS6P7KmvS7prfkDUuzCwXso28Nl53-QBDNPm0-u8rrUdmw
   phone: 417-832-1720
   delivery:
   - Postmates
@@ -848,24 +884,24 @@
   onlineOrdering: true
   info: Order online or call ahead
 - name: Nakato Japanese Steakhouse
-  website: https://www.nakatospringfield.com/dinner-menu&sa=D&ust=1585176273016000
+  website: https://www.nakatospringfield.com/dinner-menu
   phone: 417-881-7171
   curbside: true
 - name: Nearly Famous Deli
-  website: http://www.nearlyfamous.net/menu.php&sa=D&ust=1585176273018000
+  website: http://www.nearlyfamous.net/menu.php
   phone: 417-881-7171
   delivery:
   - DoorDash
   takeout: true
   info: "11-2:30"
 - name: Neighbor’s Mill
-  website: http://www.neighborsmill.com/springfield-mo&sa=D&ust=1585176273021000
+  website: http://www.neighborsmill.com/springfield-mo
   phone: 417-720-4162
   delivery:
   - Cargo
   curbside: true
 - name: Neighborhood Pizza Cafe
-  website: https://www.facebook.com/Neighborhood-Pizza-Cafe-51044309066/menu/&sa=D&ust=1585176273022000
+  website: https://www.facebook.com/Neighborhood-Pizza-Cafe-51044309066/menu/
   phone: 417-833-4411
   delivery:
   - GrubHub
@@ -876,12 +912,12 @@
 - name: New Oriental
   phone: 417-351-5686
 - name: Nicola’s Ristorante
-  website: http://www.nicolasristorante.com/index.php/menu&sa=D&ust=1585176273026000
+  website: http://www.nicolasristorante.com/index.php/menu
   phone: 417-827-8000
   takeout: true
   info: Call or text
 - name: NoBaked Cookie Dough
-  website: https://nobakedcookiedough.com/springfield/%23flavors&sa=D&ust=1585176273028000
+  website: https://nobakedcookiedough.com/springfield/%23flavors
   phone: 417-988-1009
   delivery:
   - UberEats
@@ -890,7 +926,7 @@
   onlineOrdering: true
   info: Order on FB or call
 - name: Nonna's
-  website: https://www.nonnascafe.net/?fbclid%3DIwAR0TCCE9OZR7aTmKYEIeqvRjQUZNNCVi3W92ocnBR4Da-EH_WdlLvTX0LCg&sa=D&ust=1585176273031000
+  website: https://www.nonnascafe.net/?fbclid%3DIwAR0TCCE9OZR7aTmKYEIeqvRjQUZNNCVi3W92ocnBR4Da-EH_WdlLvTX0LCg
   delivery:
   - Restaurant
   curbside: true
@@ -902,7 +938,7 @@
   takeout: true
   info: Free delivery
 - name: Ocean Zen
-  website: https://www.nonnascafe.net/?fbclid%3DIwAR0TCCE9OZR7aTmKYEIeqvRjQUZNNCVi3W92ocnBR4Da-EH_WdlLvTX0LCg&sa=D&ust=1585176273034000
+  website: https://www.nonnascafe.net/?fbclid%3DIwAR0TCCE9OZR7aTmKYEIeqvRjQUZNNCVi3W92ocnBR4Da-EH_WdlLvTX0LCg
   phone: 417-889-9596
   delivery:
   - UberEats
@@ -910,11 +946,11 @@
   driveThru: true
   takeout: true
 - name: Ott’s Pasta
-  website: https://www.ottspasta.com/menu&sa=D&ust=1585176273036000
+  website: https://www.ottspasta.com/menu
   phone: 417-863-8843
   curbside: true
 - name: Ozark Mountain Popcorn
-  website: https://www.popcorninspringfieldmo.com/flavors&sa=D&ust=1585176273039000
+  website: https://www.popcorninspringfieldmo.com/flavors
   phone: 417-866-5555
   delivery:
   - Restaurant
@@ -926,7 +962,7 @@
   - UberEats
   driveThru: true
 - name: Panera Bread (local franchisee)
-  website: https://delivery.panerabread.com/menu/category/&sa=D&ust=1585176273043000
+  website: https://delivery.panerabread.com/menu/category/
   delivery:
   - Restaurant
   - UberEats
@@ -938,7 +974,7 @@
   onlineOrdering: true
   info: Order online, multiple locations
 - name: Pappo’s
-  website: http://pappospizzeria.com/stockists&sa=D&ust=1585176273045000
+  website: http://pappospizzeria.com/stockists
   delivery:
   - Restaurant
   curbside: true
@@ -946,14 +982,14 @@
   alcohol: true
   info: Multiple locations, beer/wine togo
 - name: Pappy’s Place BBQ
-  website: https://pappysplacebbq.com/menu&sa=D&ust=1585176273048000
+  website: https://pappysplacebbq.com/menu
   phone: 417-368-0000
   delivery:
   - CarGO
   curbside: true
   takeout: true
 - name: Pasta Express
-  website: https://pastaexpress.com/menu/&sa=D&ust=1585176273050000
+  website: https://pastaexpress.com/menu/
   delivery:
   - DoorDash
   - GrubHub
@@ -962,12 +998,12 @@
   takeout: true
   info: Multiple locations
 - name: Peking House
-  website: https://www.facebook.com/PekingHouseSGF/menu/&sa=D&ust=1585176273053000
+  website: https://www.facebook.com/PekingHouseSGF/menu/
   phone: 417-887-5454
   driveThru: true
   takeout: true
 - name: Penn Station (local franchisee)
-  website: https://www.penn-station.com/menu.php&sa=D&ust=1585176273056000
+  website: https://www.penn-station.com/menu.php
   phone: 417-888-0222
   delivery:
   - GrubHub
@@ -976,27 +1012,27 @@
   onlineOrdering: true
   info: Order online, BOGO subs
 - name: Piccolo (Nixa)
-  website: https://www.eatpiccolo.com/dinner-menu&sa=D&ust=1585176273059000
+  website: https://www.eatpiccolo.com/dinner-menu
   phone: 417-374-7291
   curbside: true
 - name: Pho Kim
-  website: https://www.facebook.com/phokimspringfield/posts/2841448489250447&sa=D&ust=1585176273061000
+  website: https://www.facebook.com/phokimspringfield/posts/2841448489250447
   phone: 417-883-9999
   curbside: true
   takeout: true
 - name: Pitt's BBQ
-  website: https://www.facebook.com/449962019148645/posts/649295372548641/&sa=D&ust=1585176273064000
+  website: https://www.facebook.com/449962019148645/posts/649295372548641/
   phone: 417-494-5088
   curbside: true
   takeout: true
 - name: Pizza House
-  website: http://www.springfieldpizzahouse.com/images/pdfs/PHmenu.pdf&sa=D&ust=1585176273066000
+  website: http://www.springfieldpizzahouse.com/images/pdfs/PHmenu.pdf
   phone: 417-881-4073
   delivery:
   - CarGO
   takeout: true
 - name: Prima’s Mexican Kitchen
-  website: https://www.facebook.com/primasglenstone/menu/&sa=D&ust=1585176273068000
+  website: https://www.facebook.com/primasglenstone/menu/
   phone: 417-582-2776
   delivery:
   - DoorDash
@@ -1006,7 +1042,7 @@
   takeout: true
   info: Kid’s free w/adult
 - name: Progress
-  website: https://l.facebook.com/l.php?u%3Dhttp%253A%252F%252Fwww.springfieldprogress.com%252Ftogo-menu%253Ffbclid%253DIwAR0TlMUduD_81F2zTCk-VDwzHXngVZYy6CtzRP1sGmqwy6yfuUt5IjUJ0aM%26h%3DAT2R9UxhqddvjjYVlabJv8JbpbfdczqSjirj7uQuG7Hh9fWun2xyMqHPz04eIDo4qaLmNp_lh7yqFxkjCx7bEaRoM7PaIOhqfT2-emHlvmHJLXyUzbMIgcnypGfl554FcRCBfD8vMh455dGXaR_j78bxUBjB9L7U0t3760Mt9F3-HysL55M_ym-fEUdA6q1cKHMoh8YcO-NJXudC5nkw8McXgbfmcbhcbmyfzr5mc_2zTA8h_XXZKhjKBJ1y_Qd5nrREvAi-i4awKza3XGKbiPhJaMht2M9ErwFLsOZ6Btdb-O3G8Z2hWyAItX9Xf2SNL_4IlQEBoJDokff1EraPQOqDI_V82JLlFkDli9wmY1NYu-gIMDzCtSyhokT3bYqZtquluqbAQEslv3n8wtwvQCFRmDfy6Vw7-TI3ujJ8lJucJgvneFEV0G6i7KIdHMGnZCNhoiUOi1Q-p4j4SDgNOzYEgr6ScRQsmtxE92Q48zMFEsLhSXgmAYRBUlI_K00UfRpOKba0BIMS9phA4iW9lFpsiPMSR6E1gqDDVw3s5kXOpKN-X4R01CDlbAbEAgBLyUmUXU7Sj9sxff2RMtl7_K56dD9GnUR2KOJe239-d9Z4Ys5ngqztTS1pl7TMmuKg50YzROvoXn4eb_CfAg&sa=D&ust=1585176273070000
+  website: https://l.facebook.com/l.php?u%3Dhttp%253A%252F%252Fwww.springfieldprogress.com%252Ftogo-menu%253Ffbclid%253DIwAR0TlMUduD_81F2zTCk-VDwzHXngVZYy6CtzRP1sGmqwy6yfuUt5IjUJ0aM%26h%3DAT2R9UxhqddvjjYVlabJv8JbpbfdczqSjirj7uQuG7Hh9fWun2xyMqHPz04eIDo4qaLmNp_lh7yqFxkjCx7bEaRoM7PaIOhqfT2-emHlvmHJLXyUzbMIgcnypGfl554FcRCBfD8vMh455dGXaR_j78bxUBjB9L7U0t3760Mt9F3-HysL55M_ym-fEUdA6q1cKHMoh8YcO-NJXudC5nkw8McXgbfmcbhcbmyfzr5mc_2zTA8h_XXZKhjKBJ1y_Qd5nrREvAi-i4awKza3XGKbiPhJaMht2M9ErwFLsOZ6Btdb-O3G8Z2hWyAItX9Xf2SNL_4IlQEBoJDokff1EraPQOqDI_V82JLlFkDli9wmY1NYu-gIMDzCtSyhokT3bYqZtquluqbAQEslv3n8wtwvQCFRmDfy6Vw7-TI3ujJ8lJucJgvneFEV0G6i7KIdHMGnZCNhoiUOi1Q-p4j4SDgNOzYEgr6ScRQsmtxE92Q48zMFEsLhSXgmAYRBUlI_K00UfRpOKba0BIMS9phA4iW9lFpsiPMSR6E1gqDDVw3s5kXOpKN-X4R01CDlbAbEAgBLyUmUXU7Sj9sxff2RMtl7_K56dD9GnUR2KOJe239-d9Z4Ys5ngqztTS1pl7TMmuKg50YzROvoXn4eb_CfAg
   phone: 417-799-9388
   delivery:
   - GrubHub
@@ -1021,7 +1057,7 @@
   phone: 417-429-9020
   info: 11-2 & 4-8 food/alcohol
 - name: Rama Thai
-  website: https://ramathaicafemo.smiledining.com/&sa=D&ust=1585176273075000
+  website: https://ramathaicafemo.smiledining.com/
   phone: 417-865-3204
   delivery:
   - GrubHub
@@ -1029,16 +1065,16 @@
   onlineOrdering: true
   info: Order online or call
 - name: Red’s Giant Hamburg
-  website: https://www.facebook.com/Redshamburg/menu/&sa=D&ust=1585176273078000
+  website: https://www.facebook.com/Redshamburg/menu/
   driveThru: true
 - name: ReRico Brazilian Grill
-  website: https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/s960x960/89974915_3809388119103872_2163457060870553600_o.jpg?_nc_cat%3D101%26_nc_sid%3D8024bb%26_nc_ohc%3DZIbMv5Ox0MYAX_yOB86%26_nc_ht%3Dscontent-dfw5-1.xx%26_nc_tp%3D7%26oh%3Dbc658e4aef5c56f0179101a4f1425b18%26oe%3D5E98B78E&sa=D&ust=1585176273080000
+  website: https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/s960x960/89974915_3809388119103872_2163457060870553600_o.jpg?_nc_cat%3D101%26_nc_sid%3D8024bb%26_nc_ohc%3DZIbMv5Ox0MYAX_yOB86%26_nc_ht%3Dscontent-dfw5-1.xx%26_nc_tp%3D7%26oh%3Dbc658e4aef5c56f0179101a4f1425b18%26oe%3D5E98B78E
   delivery:
   - Restaurant
   takeout: true
   info: Free delivery 5 mi, call or email
 - name: Riad
-  website: https://417riad.com/menu&sa=D&ust=1585176273082000
+  website: https://417riad.com/menu
   phone: 417-720-1018
   delivery:
   - UberEats
@@ -1046,23 +1082,23 @@
   takeout: true
   info: Free baklava w/order
 - name: Rib Crib Ozark (local franchisees)
-  website: https://ribcrib.com/menu/&sa=D&ust=1585176273084000
+  website: https://ribcrib.com/menu/
   curbside: true
   onlineOrdering: true
   info: Multiple locations, order online
 - name: Rocco’s Pizza
-  website: https://www.roccospizzaspringfield.com/menus&sa=D&ust=1585176273086000
+  website: https://www.roccospizzaspringfield.com/menus
   delivery:
   - UberEats
   - Restaurant
   onlineOrdering: true
   info: Two locations, free delivery, 2/$20 order online
 - name: Root's Coffee Bar
-  website: https://www.facebook.com/RootsCoffeeBar/posts/2642983319355716&sa=D&ust=1585176273088000
+  website: https://www.facebook.com/RootsCoffeeBar/posts/2642983319355716
   phone: 417-877-6889
   curbside: true
 - name: Sakura Japanese
-  website: https://www.facebook.com/sakuraspringfieldmo/menu/&sa=D&ust=1585176273090000
+  website: https://www.facebook.com/sakuraspringfieldmo/menu/
   phone: 417-625-3603
   takeout: true
 - name: Salvatore’s Italian (Ozark)
@@ -1073,18 +1109,18 @@
   takeout: true
   info: Family meals & regular menu
 - name: Sam’s Southern Eatery
-  website: https://www.samssouthernspringfield.com/%23/&sa=D&ust=1585176273094000
+  website: https://www.samssouthernspringfield.com/%23/
   delivery:
   - UberEats
 - name: Sandy’s Deli (Nixa)
-  website: https://www.facebook.com/Famousforcheesecakes/menu/&sa=D&ust=1585176273096000
+  website: https://www.facebook.com/Famousforcheesecakes/menu/
   phone: 417-374-7177
   delivery:
   - Restaurant
   curbside: true
   info: Free delivery 10-2
 - name: Scramblers Diner
-  website: http://www.scramblers417.com/?fbclid%3DIwAR3YvKvq6ssjJh8RjBUZ8NfbAHQ3hPQSzK9qrvC1LIVQkukm5VGq9YGUXWQ&sa=D&ust=1585176273097000
+  website: http://www.scramblers417.com/?fbclid%3DIwAR3YvKvq6ssjJh8RjBUZ8NfbAHQ3hPQSzK9qrvC1LIVQkukm5VGq9YGUXWQ
   phone: 417-886-4224
   delivery:
   - CarGO
@@ -1092,26 +1128,26 @@
   takeout: true
   info: Specials burger/BLT/cheese sandwich
 - name: Shanghai Inn
-  website: https://places.singleplatform.com/shanghai-inn-3/menu?ref%3DYahoo&sa=D&ust=1585176273100000
+  website: https://places.singleplatform.com/shanghai-inn-3/menu?ref%3DYahoo
   driveThru: true
   info: Drive-thru
 - name: Skully’s Food Truck
-  website: https://www.skullysfoodtruck.com/menus?fbclid%3DIwAR2w3E2xjnukYuXaOfe566Pk1eNr4GhnNCeKnUYj2HMmHMwheF5ynDNYmLQ&sa=D&ust=1585176273102000
+  website: https://www.skullysfoodtruck.com/menus?fbclid%3DIwAR2w3E2xjnukYuXaOfe566Pk1eNr4GhnNCeKnUYj2HMmHMwheF5ynDNYmLQ
   phone: 417-298-2021
   takeout: true
 - name: Smith’s Restaurant
-  website: https://www.facebook.com/permalink.php?story_fbid%3D3585470744861028%26id%3D157875684287235&sa=D&ust=1585176273104000
+  website: https://www.facebook.com/permalink.php?story_fbid%3D3585470744861028%26id%3D157875684287235
   phone: 417-889-2330
   curbside: true
   takeout: true
   info: 20% off
 - name: SocieTea
-  website: https://www.facebook.com/SocieTea.llc/menu/&sa=D&ust=1585176273107000
+  website: https://www.facebook.com/SocieTea.llc/menu/
   takeout: true
   onlineOrdering: true
   info: Order online
 - name: Southbound
-  website: https://www.facebook.com/Southboundbarandgrill/photos/a.557492514298883/2801351399912972/?type%3D3%26theater&sa=D&ust=1585176273109000
+  website: https://www.facebook.com/Southboundbarandgrill/photos/a.557492514298883/2801351399912972/?type%3D3%26theater
   phone: 417-755-7774
   delivery:
   - DoorDash
@@ -1120,7 +1156,7 @@
   alcohol: true
   info: Food & alcohol
 - name: Springfield Diner
-  website: https://www.facebook.com/diner4u/app/1637598386514901/&sa=D&ust=1585176273112000
+  website: https://www.facebook.com/diner4u/app/1637598386514901/
   phone: 417-755-7382
   delivery:
   - DoorDash
@@ -1133,7 +1169,7 @@
   onlineOrdering: true
   info: Order online or call
 - name: Springfield Ave Cafe (Bolivar)
-  website: https://www.facebook.com/springfieldcafe/menu/&sa=D&ust=1585176273115000
+  website: https://www.facebook.com/springfieldcafe/menu/
   phone: 417-326-2070
   delivery:
   - Restaurant
@@ -1147,7 +1183,7 @@
   takeout: true
   info: Pay by phone or walk in
 - name: St. Michael’s
-  website: https://www.facebook.com/St-Michaels-Restaurant-and-Catering-114730261955718/menu/&sa=D&ust=1585176273120000
+  website: https://www.facebook.com/St-Michaels-Restaurant-and-Catering-114730261955718/menu/
   phone: 417-865-2315
   delivery:
   - DoorDash
@@ -1157,7 +1193,7 @@
   takeout: true
   info: Free pasta w/sauce orders
 - name: Star Cakes
-  website: https://starcakesbakery.com/%23details&sa=D&ust=1585176273122000
+  website: https://starcakesbakery.com/%23details
   phone: 417-576-3757
   delivery:
   - Restaurant
@@ -1165,7 +1201,7 @@
   takeout: true
   info: Free delivery
 - name: Sugarfire BBQ
-  website: https://sugarfiresmokehouse.com/menu/?location%3Dmo-springfield%26fbclid%3DIwAR3hvhFutvfS8qvGXINw7Yj2QomtT341OTgNZ41-H0A-EtmhDA_SKxiCX3g&sa=D&ust=1585176273124000
+  website: https://sugarfiresmokehouse.com/menu/?location%3Dmo-springfield%26fbclid%3DIwAR3hvhFutvfS8qvGXINw7Yj2QomtT341OTgNZ41-H0A-EtmhDA_SKxiCX3g
   phone: 417-720-4774
   delivery:
   - Restaurant
@@ -1173,19 +1209,19 @@
   takeout: true
   info: Free delivery
 - name: Sushi Village
-  website: https://sushivillage417-38b982.easywp.com/?fbclid%3DIwAR3QP2MT4KFmqMG6kcsjAfB4-7NqQ66iyWx3JjG7IosCG2PAyA_sB_LNqPQ%23post-31&sa=D&ust=1585176273127000
+  website: https://sushivillage417-38b982.easywp.com/?fbclid%3DIwAR3QP2MT4KFmqMG6kcsjAfB4-7NqQ66iyWx3JjG7IosCG2PAyA_sB_LNqPQ%23post-31
   phone: 417-890-1016
   delivery:
   - GrubHub
   - UberEats
   takeout: true
 - name: Sweetnsnow
-  website: https://www.facebook.com/Sweetnsnow-111006737026674/menu/&sa=D&ust=1585176273129000
+  website: https://www.facebook.com/Sweetnsnow-111006737026674/menu/
   phone: 417-501-9179
   curbside: true
   info: Call or text
 - name: Tacos El Gordo
-  website: https://www.facebook.com/712547655547034/photos/a.712548925546907/1361130530688740/?type%3D1%26theater&sa=D&ust=1585176273131000
+  website: https://www.facebook.com/712547655547034/photos/a.712548925546907/1361130530688740/?type%3D1%26theater
   takeout: true
   info: Two locations
 - name: Taj Mahal Indian Restaurant
@@ -1197,19 +1233,19 @@
   - Postmates
   takeout: true
 - name: Tasia - Taste of Asia
-  website: https://www.facebook.com/Tasia-Taste-of-Asia-167910239918880/menu/?hc_location%3Dufi&sa=D&ust=1585176273134000
+  website: https://www.facebook.com/Tasia-Taste-of-Asia-167910239918880/menu/?hc_location%3Dufi
   phone: 417-890-6789
   curbside: true
   takeout: true
 - name: Tequila and Mezcal Mexican Cuisine
-  website: https://www.toasttab.com/teqzcal/v3&sa=D&ust=1585176273136000
+  website: https://www.toasttab.com/teqzcal/v3
   phone: 417-771-5059
   delivery:
   - Restaurant
   curbside: true
   info: Weekdays only
 - name: Thai Express
-  website: https://www.zomato.com/springfield-mo/thai-xpress-springfield/menu&sa=D&ust=1585176273139000
+  website: https://www.zomato.com/springfield-mo/thai-xpress-springfield/menu
   phone: 417-865-0101
   delivery:
   - DoorDash
@@ -1218,43 +1254,43 @@
   takeout: true
   info: 25% off Drive-thru or call ahead
 - name: The Artisan's Oven
-  website: https://www.facebook.com/the.artisans.oven/menu/&sa=D&ust=1585176273141000
+  website: https://www.facebook.com/the.artisans.oven/menu/
   phone: 417-885-5030
   delivery:
   - GrubHub
   curbside: true
   takeout: true
 - name: The Big Slice
-  website: https://www.facebook.com/TheBigSlice1450/menu/&sa=D&ust=1585176273143000
+  website: https://www.facebook.com/TheBigSlice1450/menu/
   delivery:
   - Restaurant
   curbside: true
   takeout: true
   info: Two locations
 - name: The Black Lab Coffee Company
-  website: https://www.facebook.com/TheBlackLabLLC/photos/p.2374310485985418/2374310485985418/?type%3D1%26theater&sa=D&ust=1585176273145000
+  website: https://www.facebook.com/TheBlackLabLLC/photos/p.2374310485985418/2374310485985418/?type%3D1%26theater
   phone: 417-647-5125
   delivery:
   - Restaurant
   curbside: true
 - name: The Coffee Ethic
-  website: https://order.joe.coffee/stores/the-coffee-ethic/43315af5-f32c-429f-b2ae-acd2405095d9/details/(store:order)?category%3D0&sa=D&ust=1585176273147000
+  website: https://order.joe.coffee/stores/the-coffee-ethic/43315af5-f32c-429f-b2ae-acd2405095d9/details/(store:order)?category%3D0
   phone: 417-866-6645
   takeout: true
   info: Coffee & pastry. App order or call
 - name: The Fat Cat Pizza Co (Strafford)
-  website: https://www.facebook.com/permalink.php?story_fbid%3D1556446061170258%26id%3D1093942920753910&sa=D&ust=1585176273150000
+  website: https://www.facebook.com/permalink.php?story_fbid%3D1556446061170258%26id%3D1093942920753910
   phone: 417-736-0077
   delivery:
   - Restaurant
   curbside: true
   takeout: true
 - name: The Finley
-  website: https://www.facebook.com/TheFinleyOzark/photos/a.808766192646750/1256452597878105/?type%3D3%26theater&sa=D&ust=1585176273152000
+  website: https://www.facebook.com/TheFinleyOzark/photos/a.808766192646750/1256452597878105/?type%3D3%26theater
   phone: 417-582-1912
   takeout: true
 - name: The Hill
-  website: https://www.facebook.com/TheHillDining/menu/&sa=D&ust=1585176273154000
+  website: https://www.facebook.com/TheHillDining/menu/
   phone: 417-920-8850
   delivery:
   - CarGo
@@ -1262,7 +1298,7 @@
   takeout: true
   info: Drive-thru or call
 - name: That Lebanese Place
-  website: https://www.zomato.com/springfield-mo/that-lebanese-place-springfield/menu&sa=D&ust=1585176273157000
+  website: https://www.zomato.com/springfield-mo/that-lebanese-place-springfield/menu
   phone: 417-536-6677
   delivery:
   - Restaurant
@@ -1271,7 +1307,7 @@
   curbside: true
   info: Free delivery over $30
 - name: The Press Coffee & Juice Bar
-  website: https://www.facebook.com/417thepress/menu/&sa=D&ust=1585176273159000
+  website: https://www.facebook.com/417thepress/menu/
   phone: 417-771-5950
   delivery:
   - DoorDash
@@ -1280,7 +1316,7 @@
   takeout: true
   info: $25 family taco pack, soon bubble tea
 - name: The Pitch Pizza & Pub
-  website: https://thepitchpizza.com/menu&sa=D&ust=1585176273161000
+  website: https://thepitchpizza.com/menu
   phone: 417-368-0277
   delivery:
   - Restaurant
@@ -1288,26 +1324,26 @@
   onlineOrdering: true
   info: 10% off pickup. Order online or call
 - name: The Rib Joint
-  website: https://www.spfribjoint.com/menus&sa=D&ust=1585176273163000
+  website: https://www.spfribjoint.com/menus
   phone: 417-831-2144
   delivery:
   - Restaurant
   takeout: true
 - name: The Rock - Food & Friends
-  website: https://www.toasttab.com/pitch-pizza-pub/v3%23!/&sa=D&ust=1585176273165000
+  website: https://www.toasttab.com/pitch-pizza-pub/v3%23!/
   phone: 417-986-0632
   curbside: true
   takeout: true
   info: Kids free w/adult meal
 - name: The Vineyard Market (Ozark)
-  website: http://thevineyardmarket.com/bottles/?fbclid%3DIwAR2w6WCQmaujHgGWLpTIG7n8VSodw0OuDJQvcVct3ihrFHqfh5ic8cTjHkA&sa=D&ust=1585176273167000
+  website: http://thevineyardmarket.com/bottles/?fbclid%3DIwAR2w6WCQmaujHgGWLpTIG7n8VSodw0OuDJQvcVct3ihrFHqfh5ic8cTjHkA
   phone: 417-882-0399
   delivery:
   - Restaurant
   takeout: true
   info: Free delivery
 - name: The Wheelhouse
-  website: https://www.wheelhousefood.com/media/menu/print.html&sa=D&ust=1585176273169000
+  website: https://www.wheelhousefood.com/media/menu/print.html
   phone: 417-430-0400
   delivery:
   - Restaurant
@@ -1316,7 +1352,7 @@
   onlineOrdering: true
   info: Also has food truck. Order online or call
 - name: The Wildseed (Strafford)
-  website: https://www.eatwildseed.com/menu&sa=D&ust=1585176273172000
+  website: https://www.eatwildseed.com/menu
   phone: 417-736-0004
   delivery:
   - Restaurant
@@ -1324,7 +1360,7 @@
   takeout: true
   info: BOGO free code thru 3/21 
 - name: Tie and Timber
-  website: https://tieandtimberbeerco.square.site/?fbclid%3DIwAR3y_ULqOvKxFHHy0mrHqoTEBLi_AItElCPa1lUggcFFrc-u9bo_uvhjLmA&sa=D&ust=1585176273174000
+  website: https://tieandtimberbeerco.square.site/?fbclid%3DIwAR3y_ULqOvKxFHHy0mrHqoTEBLi_AItElCPa1lUggcFFrc-u9bo_uvhjLmA
   phone: 417-429-9131
   curbside: true
   takeout: true
@@ -1332,22 +1368,22 @@
   alcohol: true
   info: Growlers. Order online or call
 - name: Time Travel Cafe
-  website: https://timetravelcafe.net/menu&sa=D&ust=1585176273177000
+  website: https://timetravelcafe.net/menu
   phone: 417-567-2055
   takeout: true
 - name: Tinga Tacos
-  website: https://timetravelcafe.net/menu&sa=D&ust=1585176273180000
+  website: https://timetravelcafe.net/menu
   phone: 417-831-8807
   curbside: true
   takeout: true
   info: Free side w/3 tacos
 - name: Tong's Thai Cuisine
-  website: https://www.facebook.com/pg/TongsThaiCuisine/menu/?ref%3Dpage_internal&sa=D&ust=1585176273182000
+  website: https://www.facebook.com/pg/TongsThaiCuisine/menu/?ref%3Dpage_internal
   phone: 417-889-5280
   curbside: true
   takeout: true
 - name: Tortilleria Perches
-  website: http://www.tortilleriaperches.com/menu.html&sa=D&ust=1585176273185000
+  website: http://www.tortilleriaperches.com/menu.html
   phone: 417-864-8195
   delivery:
   - Restaurant
@@ -1355,7 +1391,7 @@
   takeout: true
   info: Free delivery at $20+
 - name: Traveller’s House Coffee
-  website: http://travellershousecoffee.com/documents/OnlineMenu2019.pdf&sa=D&ust=1585176273187000
+  website: http://travellershousecoffee.com/documents/OnlineMenu2019.pdf
   curbside: true
   takeout: true
   onlineOrdering: true
@@ -1364,7 +1400,7 @@
   phone: 417-832-8889
   curbside: true
 - name: Tropical Smoothie (local franchisees)
-  website: https://www.tropicalsmoothiecafe.com/menu/&sa=D&ust=1585176273192000
+  website: https://www.tropicalsmoothiecafe.com/menu/
   delivery:
   - GrubHub
   - UberEats
@@ -1378,14 +1414,14 @@
   curbside: true
   info: South Campbell only
 - name: Village Pottery Cafe
-  website: https://www.villagepotterycafe.com/menus&sa=D&ust=1585176273198000
+  website: https://www.villagepotterycafe.com/menus
   phone: 417-732-7272
   delivery:
   - Restaurant
   curbside: true
   info: 1/2off dessert w/ order, Free delivery
 - name: Vino Cellars
-  website: https://l.facebook.com/l.php?u%3Dhttp%253A%252F%252Fow.ly%252Fxcea50yPAuU%253Ffbclid%253DIwAR3yWnMEfIWh1tC3z58IJOxSteBLC8jYbqROK48RjXSTKIXHcfiQ73z87vQ%26h%3DAT1QCfiG6xW89bDfZQXRnd5YcIDFhXOKyWNmCTldrS7PHhbhd8BrtBMTtRGxF5b_BZlV9cqXs_N9hCaGATWMcaZag2pmz8-lCYGSy8nwG_3BKRCVBzZHMkoR6yECkvUf_pmkTBR5vIqlY1u6YpqvONJsV2-OgBFpxhfBl95a0RhElEsbz4NG8He7pKaEI1-4VYmZk-grjikMwtEGdRe0x_3dLxkJfGz56qN_IPiFhz_OwNqgxeB9m_RJZp-qqzwZwkhZpEEupiGQbsGMSKC-QJ8PLfj-L9lI5B9TtURWpy7Ye-_JC9pE9U_NnPLClpULZ6wqI88SdwymUud0icBUZuKuU_dA8nsB7fl1lF_vF3Fk0U5l_Y0zGJ_ZH5Frn_HHR0zStATKcpEqfXUZwdZofy4BNcXtE7lkP-H1w3hgU517KBwYwuLfNzbvUKkhXY0yZhalDy66W0L_WVzXWuz2yBedzb0LbwvRTUk-15vRabzsOfEWH0sdxoWlV5pXEkpktx6gYTwpchEm7P9VIPTqcbmwl4-ciG55JzeKn2NSiRlv859ean1WnmDswGASuayPFEOk3ZkzRl8WRwYdP7V57zbqIB8sDX5f-Kth2s5x7H30nK9laPt8TGVPWlpBPt5yViTdCQ&sa=D&ust=1585176273200000
+  website: https://l.facebook.com/l.php?u%3Dhttp%253A%252F%252Fow.ly%252Fxcea50yPAuU%253Ffbclid%253DIwAR3yWnMEfIWh1tC3z58IJOxSteBLC8jYbqROK48RjXSTKIXHcfiQ73z87vQ%26h%3DAT1QCfiG6xW89bDfZQXRnd5YcIDFhXOKyWNmCTldrS7PHhbhd8BrtBMTtRGxF5b_BZlV9cqXs_N9hCaGATWMcaZag2pmz8-lCYGSy8nwG_3BKRCVBzZHMkoR6yECkvUf_pmkTBR5vIqlY1u6YpqvONJsV2-OgBFpxhfBl95a0RhElEsbz4NG8He7pKaEI1-4VYmZk-grjikMwtEGdRe0x_3dLxkJfGz56qN_IPiFhz_OwNqgxeB9m_RJZp-qqzwZwkhZpEEupiGQbsGMSKC-QJ8PLfj-L9lI5B9TtURWpy7Ye-_JC9pE9U_NnPLClpULZ6wqI88SdwymUud0icBUZuKuU_dA8nsB7fl1lF_vF3Fk0U5l_Y0zGJ_ZH5Frn_HHR0zStATKcpEqfXUZwdZofy4BNcXtE7lkP-H1w3hgU517KBwYwuLfNzbvUKkhXY0yZhalDy66W0L_WVzXWuz2yBedzb0LbwvRTUk-15vRabzsOfEWH0sdxoWlV5pXEkpktx6gYTwpchEm7P9VIPTqcbmwl4-ciG55JzeKn2NSiRlv859ean1WnmDswGASuayPFEOk3ZkzRl8WRwYdP7V57zbqIB8sDX5f-Kth2s5x7H30nK9laPt8TGVPWlpBPt5yViTdCQ
   phone: 417-883-VINO
   delivery:
   - Restaurant
@@ -1399,38 +1435,38 @@
   takeout: true
   phone: 417-569-7555
 - name: W.F. Cody's
-  website: https://www.facebook.com/wfcodys/posts/3090150454370153&sa=D&ust=1585176273204000
+  website: https://www.facebook.com/wfcodys/posts/3090150454370153
   phone: 417-887-8083
   delivery:
   - GrubHub
   curbside: true
   takeout: true
 - name: Whole Hog Cafe
-  website: https://www.wholehogcafe.com/menu&sa=D&ust=1585176273207000
+  website: https://www.wholehogcafe.com/menu
   delivery:
   - GrubHub
   curbside: true
   onlineOrdering: true
   info: Two locations, order online or call
 - name: Wilson’s Chuckwagon
-  website: https://www.facebook.com/WilsonsChuckWagonBBQ/photos/a.495347190479725/1772983629382735/?type%3D3%26theater&sa=D&ust=1585176273210000
+  website: https://www.facebook.com/WilsonsChuckWagonBBQ/photos/a.495347190479725/1772983629382735/?type%3D3%26theater
   phone: 417-862-1101
   delivery:
   - Restaurant
   driveThru: true
 - name: Yanni’s Greek Gyros
-  website: https://image.zmenu.com/menupic/4039453/s_567ebe06-ee83-4fef-8e74-45962d4f5159.jpg&sa=D&ust=1585176273212000
+  website: https://image.zmenu.com/menupic/4039453/s_567ebe06-ee83-4fef-8e74-45962d4f5159.jpg
   phone: 417-882-4976
   curbside: true
   takeout: true
 - name: Zayka Indian
-  website: https://www.zmenu.com/zayka-springfield-online-menu/&sa=D&ust=1585176273214000
+  website: https://www.zmenu.com/zayka-springfield-online-menu/
   phone: 417-351-4400
   delivery:
   - UberEats
   takeout: true
 - name: Zio’s Italian Kitchen
-  website: https://zios.com/menu/&sa=D&ust=1585176273217000
+  website: https://zios.com/menu/
   phone: 417-889-1919
   delivery:
   - DoorDash

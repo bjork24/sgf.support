@@ -20,6 +20,20 @@
     website
   } = restaurant
 
+  function social() {
+    let networks = []
+    if (!facebook && !twitter && !instagram) return false
+    if (facebook) networks.push('Facebook')
+    if (instagram) networks.push('Instagram')
+    if (twitter) networks.push('Twitter')
+    return networks
+      .map(
+        sn =>
+          `<a href="${restaurant[sn.toLowerCase()]}" target="_blank">${sn}</a>`
+      )
+      .join(', ')
+  }
+
   function openLink() {
     window.open(website, '_blank')
   }
@@ -44,15 +58,12 @@
     left: 0;
     cursor: pointer;
   }
+  article :global(a) {
+    color: var(--color-success);
+  }
   h1 {
     margin: 0;
     font-size: 1rem;
-  }
-  h1[linked] {
-    cursor: pointer;
-  }
-  h1[linked] span {
-    color: var(--color-success);
   }
   aside {
     margin-left: auto;
@@ -64,22 +75,16 @@
     flex-basis: 100%;
     margin: 0.5rem 0 0;
   }
-  section a {
-    color: var(--color-success);
-    text-decoration: none;
-  }
 </style>
 
 <article on:click={toggleInfo}>
   <Icon icon={showInfo ? 'caret-down' : 'caret-right'} />
-  {#if website}
-    <h1 linked on:click|stopPropagation={openLink} title="Visit site">
-      <span>{name}</span>
+  <h1>
+    {#if website}
+      <a href={website} target="_blank" title="Visit site">{name}</a>
       <Icon icon="external-link" scale=".75" />
-    </h1>
-  {:else}
-    <h1>{name}</h1>
-  {/if}
+    {:else}{name}{/if}
+  </h1>
   <aside>
     {#each filters as { property, icon, altText }}
       {#if restaurant[property]}
@@ -102,6 +107,12 @@
         <p>
           <strong>Delivery available from:</strong>
           {delivery.join(', ')}
+        </p>
+      {/if}
+      {#if social()}
+        <p>
+          <strong>Social:</strong>
+          {@html social()}
         </p>
       {/if}
     </section>
