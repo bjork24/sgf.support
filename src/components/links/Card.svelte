@@ -91,7 +91,7 @@
         on:click={openLink}
         style="background-image: url({article.image});" />
     {/if}
-    {#if article.publisher !== 'Twitter'}
+    {#if article.publisher && article.publisher !== 'Twitter'}
       <h5 on:click={openLink}>{article.publisher}</h5>
     {/if}
     <h2 on:click={openLink}>{article.title}</h2>

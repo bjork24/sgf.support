@@ -1,8 +1,11 @@
 - name: 4 x 4 Brewing
-  website: https://www.facebook.com/4by4brewingco/app/113645212312588/&sa=D&ust=1585176272740000
+  website: http://www.4by4brewingcompany.com
   phone: 417-861-6400
   curbside: true
   alcohol: true
+  instagram: https://www.instagram.com/4by4brewingco/
+  facebook: https://facebook.com/4by4brewingco/
+  twitter: https://twitter.com/4by4Brewingco
   info: 11-8 daily Cans/growlers Call/text
 - name: 5 Spice China Grill
   website: https://www.facebook.com/pg/5-Spice-China-Grill-182145216046/photos/?tab%3Dalbum%26album_id%3D10151109260796047%26ref%3Dpage_internal&sa=D&ust=1585176272743000
