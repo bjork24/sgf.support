@@ -7,7 +7,7 @@
 </script>
 
 <style>
-  .filters {
+  #filters {
     position: sticky;
     top: 1rem;
   }
@@ -21,7 +21,7 @@
 </style>
 
 <SidebarNotice top={true}>
-  Restaurant information is being sourced from
+  Restaurant information sourced from
   <a
     href="https://docs.google.com/document/d/1gK9HD_oUu9QMAmMDlM6oZFXfxrhw0roiD31bta9-sZ4/edit?fbclid=IwAR3m8_WdMjjDWestMxMVxewy-cEcWrGsvws1_UiAfCjD6mPciVetjl-lgYg"
     target="_blank">
@@ -35,7 +35,7 @@
   </a>
 </SidebarNotice>
 
-<div class="filters">
+<div id="filters">
   <h1>Filters:</h1>
   {#each filters as filter}
     <RestaurantSidebarButton {filter} on:click />

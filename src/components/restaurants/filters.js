@@ -1,8 +1,8 @@
 export const filters = [
   {
-    property: 'delivery',
-    icon: 'car',
-    altText: 'Delivery'
+    property: 'alcohol',
+    icon: 'beer',
+    altText: 'Alcohol'
   },
   {
     property: 'curbside',
@@ -10,9 +10,19 @@ export const filters = [
     altText: 'Curbside'
   },
   {
+    property: 'delivery',
+    icon: 'car',
+    altText: 'Delivery'
+  },
+  {
     property: 'driveThru',
     icon: 'store',
     altText: 'Drive-thru'
+  },
+  {
+    property: 'giftCard',
+    icon: 'gift',
+    altText: 'Giftcards available'
   },
   {
     property: 'onlineOrdering',
@@ -23,15 +33,5 @@ export const filters = [
     property: 'takeout',
     icon: 'utensils',
     altText: 'Takeout'
-  },
-  {
-    property: 'alcohol',
-    icon: 'beer',
-    altText: 'Alcohol'
-  },
-  {
-    property: 'giftCard',
-    icon: 'gift',
-    altText: 'Giftcards available'
   }
 ]

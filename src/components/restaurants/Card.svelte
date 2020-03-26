@@ -62,28 +62,48 @@
   }
   section {
     flex-basis: 100%;
+    margin: 0.5rem 0 0;
+  }
+  section a {
+    color: var(--color-success);
+    text-decoration: none;
   }
 </style>
 
 <article on:click={toggleInfo}>
   <Icon icon={showInfo ? 'caret-down' : 'caret-right'} />
   {#if website}
-    <h1 linked on:click|stopPropagation={openLink}>
+    <h1 linked on:click|stopPropagation={openLink} title="Visit site">
       <span>{name}</span>
       <Icon icon="external-link" scale=".75" />
     </h1>
   {:else}
     <h1>{name}</h1>
   {/if}
-  {#if !showInfo}
-    <aside>
-      {#each filters as { property, icon, altText }}
-        {#if restaurant[property]}
-          <Icon {icon} title={altText} />
-        {/if}
-      {/each}
-    </aside>
-  {:else}
-    <section>TKTK</section>
+  <aside>
+    {#each filters as { property, icon, altText }}
+      {#if restaurant[property]}
+        <Icon {icon} title={altText} />
+      {/if}
+    {/each}
+  </aside>
+  {#if showInfo}
+    <section>
+      {#if info}
+        <p>{info}</p>
+      {/if}
+      {#if phone}
+        <p>
+          <strong>Phone:</strong>
+          <a href="tel:{phone}">{phone}</a>
+        </p>
+      {/if}
+      {#if delivery}
+        <p>
+          <strong>Delivery available from:</strong>
+          {delivery.join(', ')}
+        </p>
+      {/if}
+    </section>
   {/if}
 </article>
