@@ -39,6 +39,10 @@
     padding: 0.5rem 1rem;
     font-size: 0.9rem;
     text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
   }
   footer a {
     color: var(--color1);

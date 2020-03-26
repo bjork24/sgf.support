@@ -24,7 +24,10 @@ html {
 
 body {
   height: 100%;
+  min-height: 100vh;
   background-color: var(--color1);
+  position: relative;
+  padding-bottom: 3rem;
 }
 
 main {
