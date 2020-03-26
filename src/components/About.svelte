@@ -21,7 +21,7 @@
 
 <p class:contact>
   <strong>SGF.SUPPORT</strong>
-  is an unaffiliated, open-sourced website. The underlying code and data can be
+  is an unaffiliated, open-source website. The underlying code and data can be
   found on
   <a href="https://github.com/bjork24/sgf.support" target="_blank">Github</a>
   , and we encourage you to contribute however you see fit. If you're unfamiliar
