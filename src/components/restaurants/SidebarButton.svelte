@@ -11,6 +11,9 @@
       activeFilters.set($activeFilters.filter(f => f !== filter.property))
     } else {
       activeFilters.set([...$activeFilters, filter.property])
+      if (window.innerWidth < 700) {
+        document.getElementById('restaurant-list').scrollIntoView()
+      }
     }
   }
 </script>

@@ -55,7 +55,7 @@
   <title>SGF.SUPPORT // Local Restaurant List</title>
 </svelte:head>
 
-<div>
+<div id="restaurant-list">
   <h1>
     {$restaurants.length} local {$restaurants.length > 1 || !$restaurants.length ? 'restaurants' : 'restaurant'}
   </h1>
