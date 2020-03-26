@@ -33,6 +33,16 @@
   :global(.callout) {
     margin-bottom: 2rem;
   }
+  footer {
+    background-color: var(--color5);
+    color: var(--color1);
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+    text-align: center;
+  }
+  footer a {
+    color: var(--color1);
+  }
   @media (max-width: 700px) {
     main {
       flex-flow: column;
@@ -62,4 +72,10 @@
       <Sidebar {route} />
     </aside>
   </main>
+  <footer>
+    Help make the site better by
+    <a href="https://github.com/bjork24/sgf.support" target="_blank">
+      contributing on Github
+    </a>
+  </footer>
 </Router>
