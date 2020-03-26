@@ -27,6 +27,9 @@
   local: true
 - title: COVID-19 information from Centers of Disease Control and Prevention
   link: https://www.cdc.gov/coronavirus/2019-nCoV/index.html
+- title: Missouri Dept of Labor Unemployment Information
+  link: https://labor.mo.gov/coronavirus
+  local: true
 - title: National Alliance on Mental Illness guide for COVID-19
   link: https://www.nami.org/getattachment/About-NAMI/NAMI-News/2020/NAMI-Updates-on-the-Coronavirus/COVID-19-Updated-Guide-1.pdf
 - title: National Association of School Psychologists guide for talking to children about COVID-19
