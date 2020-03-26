@@ -27,9 +27,9 @@
   , and we encourage you to contribute however you see fit. If you're unfamiliar
   with Github, you can simply send us
   <a href="mailto:sgfsupport@fire.fundersclub.com">an email</a>
-  and an issue will be automatically logged to the public repositories issue
-  tracker. Sending an email guarantees your request will be seen, but it does
-  not guarantee it will be fulfilled.
+  and an issue will be automatically logged to the public issue tracker. Sending
+  an email guarantees your request will be seen, but it does not guarantee it
+  will be fulfilled.
 </p>
 
 <p>
