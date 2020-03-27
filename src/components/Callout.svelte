@@ -74,7 +74,7 @@
       <Icon icon="bullhorn" color="var(--color1)" />
       Stay-at-home order
     </span>
-    <small>{daysLeft} days left</small>
+    <small>29 days left</small>
   </header>
   <div class="progress">
     <div class="fill" style="width: {percentage}%;" />
