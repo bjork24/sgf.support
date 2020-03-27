@@ -3,6 +3,10 @@
   sidebar: "\"Stay at Home\" FAQ"
   link: https://www.springfieldmo.gov/DocumentCenter/View/48364/COVID-19-Stay-At-Home-Order-FAQ
   local: true
+- title: Springfield - Greene County Health Coronavirus Dashboard
+  sidebar: SGF - Green Co. Dashboard
+  link: https://www.springfieldmo.gov/5068/Coronavirus
+  local: true
 - title: Missouri Department of Health and Senior Services COVID-19 information
   sidebar: MO Dept of Health
   link: https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/
