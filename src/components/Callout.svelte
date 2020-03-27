@@ -10,10 +10,11 @@
   const start = new Date(startDate + ', 2020')
   const end = new Date(endDate + ', 2020')
   const today = new Date()
-  const daysLeft = (end.getTime() - start.getTime()) / (1000 * 3600 * 24)
+  const length = (end.getTime() - start.getTime()) / (1000 * 3600 * 24)
   const daysElapsed = Math.floor(
     (today.getTime() - start.getTime()) / (1000 * 3600 * 24)
   )
+  const daysLeft = length - daysElapsed
   const percentage = Math.floor((daysElapsed / daysLeft) * 100)
 </script>
 
@@ -74,7 +75,7 @@
       <Icon icon="bullhorn" color="var(--color1)" />
       Stay-at-home order
     </span>
-    <small>29 days left</small>
+    <small>{daysLeft} days left</small>
   </header>
   <div class="progress">
     <div class="fill" style="width: {percentage}%;" />
