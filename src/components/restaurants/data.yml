@@ -1289,6 +1289,7 @@
 - name: Tacos El Gordo
   website: https://www.facebook.com/712547655547034/photos/a.712548925546907/1361130530688740/?type%3D1%26theater
   takeout: true
+  facebook: https://www.facebook.com/TACOS-El-GORDO-712547655547034
   info: Two locations
 - name: Taj Mahal Indian Restaurant
   phone: 417-719-4573
@@ -1298,17 +1299,20 @@
   - CarGo
   - Postmates
   takeout: true
+  facebook: https://www.facebook.com/pages/category/Indian-Restaurant/Taj-Mahal-Indian-Restaurant-488044927884811/
 - name: Tasia - Taste of Asia
-  website: https://www.facebook.com/Tasia-Taste-of-Asia-167910239918880/menu/?hc_location%3Dufi
+  website: https://www.facebook.com/pg/Tasia-Taste-of-Asia-167910239918880/menu/
   phone: 417-890-6789
   curbside: true
   takeout: true
+  facebook: https://www.facebook.com/Tasia-Taste-of-Asia-167910239918880
 - name: Tequila and Mezcal Mexican Cuisine
   website: https://www.toasttab.com/teqzcal/v3
   phone: 417-771-5059
   delivery:
   - Restaurant
   curbside: true
+  facebook: https://www.facebook.com/Teqzcal/
   info: Weekdays only
 - name: Thai Express
   website: https://www.zomato.com/springfield-mo/thai-xpress-springfield/menu
@@ -1318,6 +1322,7 @@
   - Postmates
   driveThru: true
   takeout: true
+  facebook: https://www.facebook.com/417thaiexpress/
   info: 25% off Drive-thru or call ahead
 - name: The Artisan's Oven
   website: https://www.facebook.com/the.artisans.oven/menu/
@@ -1326,23 +1331,29 @@
   - GrubHub
   curbside: true
   takeout: true
+  facebook: https://www.facebook.com/the.artisans.oven
 - name: The Big Slice
-  website: https://www.facebook.com/TheBigSlice1450/menu/
+  website: http://thebigslicespringfield.com/
   delivery:
   - Restaurant
   curbside: true
   takeout: true
+  facebook: https://www.facebook.com/TheBigSlice1450
   info: Two locations
 - name: The Black Lab Coffee Company
   website: https://www.facebook.com/TheBlackLabLLC/photos/p.2374310485985418/2374310485985418/?type%3D1%26theater
   phone: 417-647-5125
   delivery:
   - Restaurant
+  facebook: https://www.facebook.com/TheBlackLabLLC/
   curbside: true
 - name: The Coffee Ethic
-  website: https://order.joe.coffee/stores/the-coffee-ethic/43315af5-f32c-429f-b2ae-acd2405095d9/details/(store:order)?category%3D0
+  website: https://thecoffeeethic.com/
   phone: 417-866-6645
   takeout: true
+  facebook: https://www.facebook.com/TheCoffeeEthic/
+  twitter: https://www.twitter.com/thecoffeeethic/
+  instagram: https://www.instagram.com/thecoffeeethic/
   info: Coffee & pastry. App order or call
 - name: The Fat Cat Pizza Co (Strafford)
   website: https://www.facebook.com/permalink.php?story_fbid%3D1556446061170258%26id%3D1093942920753910
@@ -1351,17 +1362,20 @@
   - Restaurant
   curbside: true
   takeout: true
+  facebook: https://www.facebook.com/The-Fat-Cat-Pizza-Co-1093942920753910/
 - name: The Finley
   website: https://www.facebook.com/TheFinleyOzark/photos/a.808766192646750/1256452597878105/?type%3D3%26theater
   phone: 417-582-1912
   takeout: true
+  facebook: https://www.facebook.com/TheFinleyOzark
 - name: The Hill
-  website: https://www.facebook.com/TheHillDining/menu/
+  website: https://www.thehilldining417.com/
   phone: 417-920-8850
   delivery:
   - CarGo
   driveThru: true
   takeout: true
+  facebook: https://www.facebook.com/TheHillDining
   info: Drive-thru or call
 - name: That Lebanese Place
   website: https://www.zomato.com/springfield-mo/that-lebanese-place-springfield/menu
@@ -1371,6 +1385,7 @@
   - CarGO
   - DoorDash
   curbside: true
+  facebook: https://www.facebook.com/ThatLebanesePlace/
   info: Free delivery over $30
 - name: The Press Coffee & Juice Bar
   website: https://www.facebook.com/417thepress/menu/
@@ -1380,6 +1395,7 @@
   - soon CarGO and Postmates
   curbside: true
   takeout: true
+  facebook: https://www.facebook.com/417thepress
   info: $25 family taco pack, soon bubble tea
 - name: The Pitch Pizza & Pub
   website: https://thepitchpizza.com/menu
@@ -1388,18 +1404,23 @@
   - Restaurant
   takeout: true
   onlineOrdering: true
+  facebook: http://www.facebook.com/PitchPizzaPub/
+  instagram: http://instagram.com/pitchpizzapub
   info: 10% off pickup. Order online or call
 - name: The Rib Joint
   website: https://www.spfribjoint.com/menus
   phone: 417-831-2144
   delivery:
   - Restaurant
+  facebook: https://www.facebook.com/112511496772955
+
   takeout: true
 - name: The Rock - Food & Friends
-  website: https://www.toasttab.com/pitch-pizza-pub/v3%23!/
+  website: https://www.facebook.com/TheRockRestaurantandBarMO/
   phone: 417-986-0632
   curbside: true
   takeout: true
+  facebook: https://www.facebook.com/TheRockRestaurantandBarMO/
   info: Kids free w/adult meal
 - name: The Vineyard Market (Ozark)
   website: http://thevineyardmarket.com/bottles/?fbclid%3DIwAR2w6WCQmaujHgGWLpTIG7n8VSodw0OuDJQvcVct3ihrFHqfh5ic8cTjHkA
@@ -1407,6 +1428,9 @@
   delivery:
   - Restaurant
   takeout: true
+  facebook: https://www.facebook.com/TheVineyardMarket
+  instagram: https://www.instagram.com/the_vineyard_market/
+  twitter: https://twitter.com/vineyard417
   info: Free delivery
 - name: The Wheelhouse
   website: https://www.wheelhousefood.com/media/menu/print.html
@@ -1416,6 +1440,8 @@
   - GrubHub
   curbside: true
   onlineOrdering: true
+  facebook: https://facebook.com/wheelhousefood
+  twitter: https://twitter.com/wheelhousefood
   info: Also has food truck. Order online or call
 - name: The Wildseed (Strafford)
   website: https://www.eatwildseed.com/menu
@@ -1424,30 +1450,38 @@
   - Restaurant
   curbside: true
   takeout: true
+  facebook: https://www.facebook.com/Wildseed.2017/
   info: BOGO free code thru 3/21 
 - name: Tie and Timber
-  website: https://tieandtimberbeerco.square.site/?fbclid%3DIwAR3y_ULqOvKxFHHy0mrHqoTEBLi_AItElCPa1lUggcFFrc-u9bo_uvhjLmA
+  website: http://www.tieandtimberbeerco.com/
   phone: 417-429-9131
   curbside: true
   takeout: true
   onlineOrdering: true
   alcohol: true
+  facebook: https://www.facebook.com/tieandtimberbeerco
+  instagram: https://www.instagram.com/tieandtimberbeerco/
   info: Growlers. Order online or call
 - name: Time Travel Cafe
   website: https://timetravelcafe.net/menu
   phone: 417-567-2055
   takeout: true
+  facebook: https://www.facebook.com/TimeTravelCafe/
 - name: Tinga Tacos
-  website: https://timetravelcafe.net/menu
+  website: http://tingatacossgf.com/
   phone: 417-831-8807
   curbside: true
   takeout: true
+  facebook: https://www.facebook.com/Tingatacos/
+  twitter: https://twitter.com/tingatacos
+  instagram: https://www.instagram.com/tingatacos/
   info: Free side w/3 tacos
 - name: Tong's Thai Cuisine
   website: https://www.facebook.com/pg/TongsThaiCuisine/menu/?ref%3Dpage_internal
   phone: 417-889-5280
   curbside: true
   takeout: true
+  facebook: https://www.facebook.com/pg/TongsThaiCuisine
 - name: Tortilleria Perches
   website: http://www.tortilleriaperches.com/menu.html
   phone: 417-864-8195
@@ -1455,16 +1489,21 @@
   - Restaurant
   curbside: true
   takeout: true
+  facebook: https://www.facebook.com/tortilleriaperches/
   info: Free delivery at $20+
 - name: Traveller’s House Coffee
-  website: http://travellershousecoffee.com/documents/OnlineMenu2019.pdf
+  website: http://travellershousecoffee.com/
   curbside: true
   takeout: true
   onlineOrdering: true
+  facebook: https://www.facebook.com/travellershousecoffee/
+  twitter: https://www.twitter.com/sgftravellers
+  instagram: https://www.instagram.com/travellershousecoffee
   info: Two locations Order online or call
 - name: Triple Eights Chinese
   phone: 417-832-8889
   curbside: true
+  facebook: https://www.facebook.com/pages/Triple-8s/148739481820098
 - name: Tropical Smoothie (local franchisees)
   website: https://www.tropicalsmoothiecafe.com/menu/
   delivery:
@@ -1475,7 +1514,9 @@
   info: Two locations, *options vary by location
 - name: Vic’s Pastries
   takeout: true
+  curbside: true
   phone: 417-889-8427
+  facebook: https://www.facebook.com/pages/category/Bakery/Vics-Pastries-155743311850404/
 - name: Village Inn
   curbside: true
   info: South Campbell only
@@ -1485,21 +1526,29 @@
   delivery:
   - Restaurant
   curbside: true
+  facebook: http://www.facebook.com/villagepotterycafe/
   info: 1/2off dessert w/ order, Free delivery
 - name: Vino Cellars
-  website: https://l.facebook.com/l.php?u%3Dhttp%253A%252F%252Fow.ly%252Fxcea50yPAuU%253Ffbclid%253DIwAR3yWnMEfIWh1tC3z58IJOxSteBLC8jYbqROK48RjXSTKIXHcfiQ73z87vQ%26h%3DAT1QCfiG6xW89bDfZQXRnd5YcIDFhXOKyWNmCTldrS7PHhbhd8BrtBMTtRGxF5b_BZlV9cqXs_N9hCaGATWMcaZag2pmz8-lCYGSy8nwG_3BKRCVBzZHMkoR6yECkvUf_pmkTBR5vIqlY1u6YpqvONJsV2-OgBFpxhfBl95a0RhElEsbz4NG8He7pKaEI1-4VYmZk-grjikMwtEGdRe0x_3dLxkJfGz56qN_IPiFhz_OwNqgxeB9m_RJZp-qqzwZwkhZpEEupiGQbsGMSKC-QJ8PLfj-L9lI5B9TtURWpy7Ye-_JC9pE9U_NnPLClpULZ6wqI88SdwymUud0icBUZuKuU_dA8nsB7fl1lF_vF3Fk0U5l_Y0zGJ_ZH5Frn_HHR0zStATKcpEqfXUZwdZofy4BNcXtE7lkP-H1w3hgU517KBwYwuLfNzbvUKkhXY0yZhalDy66W0L_WVzXWuz2yBedzb0LbwvRTUk-15vRabzsOfEWH0sdxoWlV5pXEkpktx6gYTwpchEm7P9VIPTqcbmwl4-ciG55JzeKn2NSiRlv859ean1WnmDswGASuayPFEOk3ZkzRl8WRwYdP7V57zbqIB8sDX5f-Kth2s5x7H30nK9laPt8TGVPWlpBPt5yViTdCQ
+  website: https://squareup.com/store/vinocellars
   phone: 417-883-VINO
   delivery:
   - Restaurant
   curbside: true
   takeout: true
+  giftCard: true
   info: Takeout Mon-Sat & delivery after 6
+  facebook: https://www.facebook.com/vinocellars
+  twitter: https://twitter.com/vinocellars
 - name: Vito's Kitchen
+  website: https://vitoskitchen.net/
   delivery:
   - GrubHub
   - CarGo
   takeout: true
   phone: 417-569-7555
+  facebook: https://www.facebook.com/VitosKitchen/
+  twitter: http://twitter.com/VitosKitchen
+  instagram: https://www.instagram.com/vitoskitchen/
 - name: W.F. Cody's
   website: https://www.facebook.com/wfcodys/posts/3090150454370153
   phone: 417-887-8083
@@ -1507,6 +1556,7 @@
   - GrubHub
   curbside: true
   takeout: true
+  facebook: https://www.facebook.com/wfcodys
 - name: Whole Hog Cafe
   website: https://www.wholehogcafe.com/menu
   delivery:
@@ -1515,22 +1565,26 @@
   onlineOrdering: true
   info: Two locations, order online or call
 - name: Wilson’s Chuckwagon
-  website: https://www.facebook.com/WilsonsChuckWagonBBQ/photos/a.495347190479725/1772983629382735/?type%3D3%26theater
+  website: https://www.wilsonschuckwagon.com/
   phone: 417-862-1101
   delivery:
   - Restaurant
   driveThru: true
+  facebook: https://www.facebook.com/WilsonsChuckWagonBBQ/photos/a.495347190479725/1772983629382735/?type%3D3%26theater
 - name: Yanni’s Greek Gyros
   website: https://image.zmenu.com/menupic/4039453/s_567ebe06-ee83-4fef-8e74-45962d4f5159.jpg
   phone: 417-882-4976
   curbside: true
   takeout: true
+  facebook: https://www.facebook.com/yannisgreekgyroos/
 - name: Zayka Indian
   website: https://www.zmenu.com/zayka-springfield-online-menu/
   phone: 417-351-4400
   delivery:
   - UberEats
   takeout: true
+  facebook: https://www.facebook.com/zaykaspringfield
+
 - name: Zio’s Italian Kitchen
   website: https://zios.com/menu/
   phone: 417-889-1919
