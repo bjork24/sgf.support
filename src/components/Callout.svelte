@@ -15,7 +15,7 @@
     (today.getTime() - start.getTime()) / (1000 * 3600 * 24)
   )
   const daysLeft = length - daysElapsed
-  const percentage = Math.floor((daysElapsed / daysLeft) * 100)
+  const percentage = Math.floor((daysElapsed / length) * 100)
 </script>
 
 <style>
