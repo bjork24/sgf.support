@@ -604,34 +604,45 @@
   phone: 417-862-0477
   curbside: true
   takeout: true
+  facebook: https://www.facebook.com/Harbells
   info: 25% off
 - name: Hard Knox BBQ
-  website: https://www.toasttab.com/hard-knox-bbq-ilzln/v2/online-order%23!/
+  website: https://www.hardknoxbbq.com/
   phone: 417-720-4811
   takeout: true
   onlineOrdering: true
+  giftCard: true
+  facebook: https://www.facebook.com/hardknoxbbq
   info: Online order or call
 - name: Haruno
   website: https://www.harunosushi.com/menu
   phone: 417-887-0077
   takeout: true
+  facebook: http://www.facebook.com/haruno.sushi.grill/
+  twitter: https://twitter.com/doj632s
+  instagram: http://instagram.com/harunosushibar
   info: 10%off, HH/late specials
 - name: Healthy Bishes Meal Service
   phone: 417-300-9892
   delivery:
   - Restaurant
+  facebook: https://www.facebook.com/healthybishes/
   info: Personalized meals, $5 delivery
 - name: Hilltop Pizza (Fair Grove)
   website: https://www.hilltoppizzagrill.com/menu
   phone: 417-759-7794
   curbside: true
+  facebook: http://www.facebook.com/hilltoppizzaandgrill/
 - name: Hinode
-  website: https://www.facebook.com/eathinode/menu/
+  website: https://www.eathinode.com/
   phone: 417-877-1777
   delivery:
   - CarGO
   curbside: true
   takeout: true
+  facebook: https://www.facebook.com/eathinode
+  twitter: https://twitter.com/eathinode
+  instagram: https://www.instagram.com/eathinode/
   info: 40% off, SGF open M/W Nixa T/Th
 - name: Hold Fast Brewing
   website: https://www.hfbrewing.com/beers
@@ -639,6 +650,8 @@
   curbside: true
   driveThru: true
   alcohol: true
+  facebook: http://www.facebook.com/holdfastbrewing
+  instagram: https://instagram.com/holdfastbrew
   info: Crowlers
 - name: Hong Kong Inn
   website: https://www.allmenus.com/mo/springfield/52106-hong-kong-inn/menu/
@@ -669,26 +682,31 @@
   takeout: true
   info: Curbside at E Republic, carry-out downtown
 - name: Iguana Roja (Ozark)
-  website: https://www.iguanaroja.net/?fbclid%3DIwAR0J8vBSsWMJpbhe5Kt8yU_-IvfVf2kZSDJlljKOEb7IqCpokiUEQ6j66zc
+  website: https://www.iguanaroja.net
   phone: 417-485-8585
   delivery:
   - Restaurant
   - DoorDash
   curbside: true
   takeout: true
+  facebook: https://www.facebook.com/IguanaRojaRestaurante
+  twitter: https://twitter.com/IguanaRojaOzark
   info: Care packs for hospitality workers
 - name: I Love Tacos Taqueria
   website: https://www.facebook.com/ILoveTacosTaqueriaSpringfield/photos/a.882877591814077/2320746638027158/?type%3D3%26theater
   phone: 417-489-0076
   takeout: true
+  facebook: https://www.facebook.com/ILoveTacosTaqueriaSpringfield
 - name: Infused Catering
   website: https://infused-catering.com/menu/
   phone: 417-883-8368
   delivery:
   - Restaurant
+  facebook: http://www.facebook.com/pages/Infused-Catering-Longhorn-Grill/119719214759695
   info: Boxed lunches to businesses
-- name: Izume Hatake Japanese
+- name: Izumi Hatake Japanese
   takeout: true
+  facebook: https://www.facebook.com/IzumiHatake.springfield/
   phone: 417-865-0366
 - name: J. Parrino’s Queen City Deli
   website: https://www.queencitydeli.com/our-menu
@@ -698,13 +716,16 @@
   - DoorDash
   - GrubHub
   takeout: true
-- name: Jade East Inc
+  facebook: https://www.facebook.com/pg/J.ParrinosQueenCityDeli
+  twitter: https://twitter.com/QueenCityDeli
+- name: Jade East
   website: https://www.allmenus.com/mo/springfield/52117-jade-east/menu/
   delivery:
   - GrubHub
   - DoorDash
   - Postmates
   driveThru: true
+  facebook: https://www.facebook.com/pages/Jade-East-Restaurant/116755088349809
 - name: Jamaican Patty Co
   website: https://www.jamaicanpattyco.com/menu/
   phone: 417-886-1144
@@ -713,6 +734,7 @@
   - Postmates
   - UberEats
   - GrubHub
+  facebook: https://www.facebook.com/JamaicanPattyCo/
   takeout: true
 - name: Jimm's Steakhouse
   website: https://jimmssteakhouseandpub.com/
@@ -720,6 +742,7 @@
   curbside: true
   takeout: true
   giftCard: true
+  facebook: https://www.facebook.com/jimmssteakhouseandpub/
   info: $10GC & $5 donated w/$50 order
 - name: Jimmy John's (local franchisee)
   website: https://www.jimmyjohns.com/menu/%23/
@@ -732,6 +755,7 @@
 - name: Jose Locos
   website: https://www.facebook.com/Joselocos2/posts/2459153534395676
   takeout: true
+  facebook: https://www.facebook.com/Joselocos2/
   info: Two locations
 - name: Just One More (Republic)
   website: https://www.facebook.com/JustOneMoreRepublic/posts/10156869321715685
@@ -740,6 +764,7 @@
   - Restaurant
   curbside: true
   alcohol: true
+  facebook: https://www.facebook.com/JustOneMoreRepublic
   info: Food & alcohol
 - name: Kai After Dark
   website: https://www.kaiafterdark.com/main-dining
