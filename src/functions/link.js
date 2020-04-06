@@ -22,7 +22,7 @@ exports.handler = async (event, context) => {
       statusCode: 200,
       headers: {
         'Cache-Control': 'public, s-maxage=31536000',
-        ETag: '26feu98uasdg8ua98sd9u88298e'
+        ETag: '26feu92uasdg8ua98sd9u88298e'
       },
       body: JSON.stringify(metadata)
     }
