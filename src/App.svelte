@@ -62,7 +62,7 @@
   <SiteNav {route} />
   <main>
     <section>
-      <Callout />
+      <!-- <Callout /> //-->
       <Route path="/" component={LinkList} />
       <Route path="/restaurants" component={RestaurantList} />
       <Route path="/resources" component={ResourcesList} />
