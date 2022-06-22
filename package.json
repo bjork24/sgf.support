@@ -30,7 +30,7 @@
     "svelte-icons": "^2.1.0"
   },
   "dependencies": {
-    "got": "^10.7.0",
+    "got": "^11.8.5",
     "metascraper": "^5.11.6",
     "metascraper-description": "^5.11.6",
     "metascraper-image": "^5.11.6",
